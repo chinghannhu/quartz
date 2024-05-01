@@ -1,5 +1,5 @@
 ---
-title: 6分鐘日記的魔法
+title: 6 分鐘日記的魔法
 draft: false
 tags:
   - books
