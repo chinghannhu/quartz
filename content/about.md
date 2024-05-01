@@ -22,8 +22,8 @@ Last updated: 2024-04-14
 - 2017: working holiday in Berlin for 8 months
 - 2018: work in Taipei
 - 2021: start personal website on Ghost
-- 2024 start personal website on Quartz
-## My Life Pilosophy
+- 2024: start personal website on Quartz
+## My Life Philosophy
 - Be kind. [[/tags/kind|>]]
 ## My Tech
 - Apple Fan Boy
