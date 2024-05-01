@@ -23,6 +23,8 @@ Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_me
 
 為了活下去，恐懼設定清單（[Fear-Setting List](https://tim.blog/2017/05/15/fear-setting/?ref=chinghannhu.ghost.io)）因而誕生。
 
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
 為什麼應該以恐懼帶領你，而非目標（Tim Ferriss • TED2017）
 
 ---
