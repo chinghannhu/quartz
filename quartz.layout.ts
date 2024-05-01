@@ -6,9 +6,12 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+    links: { 
+      "Now": "/now",
+      "About": "/about",
+      "Roadmap": "/roadmap",
+      Twitter: "https://twitter.com/chinghannhu",
+      "#": "/",
     },
   }),
 }
@@ -18,8 +21,8 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
+    
   ],
   left: [
     Component.PageTitle(),

@@ -17,6 +17,7 @@ section {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+  
 }
 
 .text-highlight {
@@ -30,10 +31,11 @@ section {
   color: var(--darkgray);
 }
 
+
+
 p,
 ul,
 text,
-a,
 tr,
 td,
 li,
@@ -45,7 +47,23 @@ ul,
   fill: var(--darkgray);
   overflow-wrap: anywhere;
   hyphens: auto;
+  line-height: 1.6rem;
+  
 }
+
+li,
+ol,
+ul,{
+  margin-top: 0.2rem;
+}
+
+a {
+  color: var(--darkgray);
+  fill: var(--darkgray);
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+
 
 .math {
   &.math-display {
@@ -119,7 +137,7 @@ a {
 
   & article {
     & > h1 {
-      font-size: 2rem;
+      font-size: rem;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -410,11 +428,6 @@ code {
   background: var(--lightgray);
 }
 
-tbody,
-li,
-p {
-  line-height: 1.6rem;
-}
 
 .table-container {
   overflow-x: auto;
@@ -512,4 +525,13 @@ ol.overflow {
   ul {
     padding-left: 1rem;
   }
+}
+
+li.section-li>.section>.meta {
+font-size: 12px;
+}
+
+iframe {
+  border-radius:12px;
+  width:100%;
 }

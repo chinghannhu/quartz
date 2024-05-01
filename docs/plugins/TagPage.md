@@ -3,7 +3,6 @@ title: TagPage
 tags:
   - plugin/emitter
 ---
-
 This plugin emits dedicated pages for each tag used in the content. See [[folder and tag listings]] for more information.
 
 > [!note]
