@@ -16,7 +16,7 @@ Morning Everyone!
 
 ## 恐懼設定清單（Fear-Setting List）- 地震篇
 
-![](https://www.chinghannhu.com/content/images/2022/11/fear-setting-1-1.png)
+![[fear-setting-1-1.png]]
 
 ### 「恐懼設定清單」怎麼做？
 

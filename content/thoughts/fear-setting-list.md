@@ -34,8 +34,7 @@ Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_me
 Tim Ferriss 試著將恐懼具象化、條列化，藉由定義和分析恐懼，一條條破除它的束縛。恐懼設定清單包含三頁：
 
 按下一個番茄鐘，來寫第一頁吧。
-
-![](https://chinghannhu.ghost.io/content/images/2022/11/fear-setting-1-1.png)
+![[fear-setting-1-1.png]]
 
 ### 1. 用放大鏡看看恐懼（如果我...）
 
@@ -57,8 +56,7 @@ Tim Ferriss 試著將恐懼具象化、條列化，藉由定義和分析恐懼�
     (a) 被打槍，如果信任主管，不妨和他聊聊，過去在公司裡有沒有其他談加薪成功的狀況，請主管就他的經驗分享，並談談自己有哪些部份能再精進，為公司創造更多價值(b) 和主管變得超尷尬、同事酸言酸語、漸漸被公司冷凍、被資遣，以上都不是自己能控制的外部因素，專注在自己能控制的地方就好。只求反求諸己，而不怨天尤人；(c) 如果工作上被刁難，列下被刁難的理由，目前改善的方法有哪些，列下能再試試做的更好的部分；(d) 信心遭受重擊，是時候 Call Out 給你最好的朋友或是親愛的家人囉！好好哭一下，或是大罵。人生嘛，就是有好有壞。
 
 ---
-
-![](https://chinghannhu.ghost.io/content/images/2022/11/fear-setting-21-.png)
+![[fear-setting-2-1.png]]
 
 ### 2. 寫下嘗試去做的好處和改變
 
@@ -87,8 +85,8 @@ Tim Ferriss 試著將恐懼具象化、條列化，藉由定義和分析恐懼�
 - 獲得談加薪的經驗值，Level up up!
 
 ---
+![[fear-setting-3-1.png]]
 
-![](https://chinghannhu.ghost.io/content/images/2022/11/fear-setting-3-1.png)
 
 ### 3. 不行動的代價
 
