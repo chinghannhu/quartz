@@ -1,5 +1,5 @@
 ---
-title: Newsletter Archives
+title: Newsletter
 draft: false
 tags:
 ---
