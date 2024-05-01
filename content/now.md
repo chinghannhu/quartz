@@ -36,7 +36,7 @@ Here are several articles to knock on my own head at the right time:
 ## # Reading
 
 - [[books|Reading List]]
-- [Reading Notes](/tags/book)
+- [Reading Notes](/tags/books)
 
 ---
 ## # Learning
