@@ -27,7 +27,7 @@ Here are several articles to knock on my own head at the right time:
 
 ## # Reviewing
 
-1. My Ideal Ordinary Week
+1. [[my-ideal-ordinary-week|My Ideal Ordinary Week 我的理想平凡一週]] （中文） 
 2. The Power of the Weekly Review
 3. One-Touch Guide: Weekly Review
 
