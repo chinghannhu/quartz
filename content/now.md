@@ -80,5 +80,5 @@ Troubled by this situation for a while, I hope to firmly state what I am doing n
 
 This Now Page is updated at least once a month, on the 14th of each month.
 
-Updated on [], next update on 04-14.
+Updated on 2024-05-01, next update on 05-14.
 
