@@ -4,7 +4,7 @@ draft: false
 tags:
   - books
   - seeds
-date:
+date: 2023/12/24
 ---
 By James Clear
 

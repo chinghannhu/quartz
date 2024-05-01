@@ -3,7 +3,7 @@ title: Procrastination Breaker
 draft: false
 tags:
   - seeds
-date:
+date: 2023/11/23
 ---
 In "[How to Do Great Work](https://paulgraham-com.translate.goog/greatwork.html)," Paul Graham mentions two types of procrastination that often occur in life: ***per-day procrastination*** and ***per-project procrastination***. 
 

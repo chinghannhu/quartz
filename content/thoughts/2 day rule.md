@@ -3,7 +3,7 @@ title: 2-Day Rule
 draft: false
 tags:
   - seeds
-date:
+date: 2024/3/1
 ---
 <iframe width="100%"  src="https://www.youtube.com/embed/bfLHTLQZ5nc?si=p0nE91MJdHIkMpCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
