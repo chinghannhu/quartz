@@ -29,6 +29,6 @@ Last updated: 2024-04-14
 - Apple Fan Boy
 - Kobo Clara 2E
 - hyread Gaze X plus
-## More about me:
+## More about me
 - **I hate noise**. So happy that finally got noise-cancelling headphones at the end of 2023. They have literally made me feel like living in heaven.
 - **I bite nails.**  Nails seem like a good snack for me.
