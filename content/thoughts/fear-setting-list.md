@@ -1,5 +1,5 @@
 ---
-title: 「恐懼設定清單」：克服恐懼的解藥
+title: 恐懼設定清單：克服恐懼的解藥
 draft: false
 tags:
   - evergreen
