@@ -9,7 +9,7 @@ date: 2022/12/08
 
 Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
 
-什麼是恐懼？
+## 什麼是恐懼？
 
 恐懼是一種不愉快的反應，尤其是遇到威脅或是危險的時刻。
 
