@@ -22,7 +22,7 @@ See my "[[now]]" page.
 
 Here are some places you may want to visit:
 
-- [[self reminders]]
+- [[reminders]]
 
 
 ---
