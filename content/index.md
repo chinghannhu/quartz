@@ -2,13 +2,14 @@
 title: CHH's Blog
 enableDate: false
 enableToc: false
+description: Welcome! Hello, I’m Hu.I'm a creator, digital designer / casual photographer living in Taipei, Taiwan.
 ---
  
 ### Me in 10 Seconds
 
 Welcome! Hello, I’m Hu.
 
-I'm a digital designer / casual photographer living in Taipei, Taiwan. 
+I'm a creator, digital designer / casual photographer living in Taipei, Taiwan. 
 
 ### Me in 10 Minutes
 My friends sometimes call me huhu, or you may just call me Hann. Either works for me :) 
