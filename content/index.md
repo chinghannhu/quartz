@@ -28,7 +28,7 @@ Here are some places you may want to visit:
 ---
 ### Say Hello
 I love making friends :) You can find me on [Twitter](https://twitter.com/chinghannhu?ref=chinghannhu.com), or just email me 
-hi@chinghannhu.com. 
+[hi@chinghannhu.com](mailto:hi@chinghannhu.com).
 
 Or write me a postcard! The address is: 
 - P.O. BOX 14 Beitou, Minde, Taipei City 11299, TAIWAN
