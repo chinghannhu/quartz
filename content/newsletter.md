@@ -7,7 +7,7 @@ tags:
 
 ![sunny-side up served on plate](https://images.unsplash.com/photo-1529411081224-84ac0d0bf6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGJyZWFrZmFzdCUyMG5ld3NwYXBlcnxlbnwwfHx8fDE2OTUwOTk3ODZ8MA&ixlib=rb-4.0.3&q=80&w=2000)
 
-Photo by [Thought Catalog](https://unsplash.com/@thoughtcatalog?ref=chinghannhu.ghost.io) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
+Photo by [Thought Catalog](https://unsplash.com/@thoughtcatalog?) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
 
 ---
 

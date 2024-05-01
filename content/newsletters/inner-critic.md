@@ -38,7 +38,7 @@ Night Everyone!
 
 要如何跟內心批判者（怪咖同事）共處的方式，是努力改變自己對他的反應。
 
-如同 Ali Abdaal 在 [2024 Alignment Workshop](https://www.productivitylab.com/alignment-workshop?ref=chinghannhu.ghost.io) 工作坊裡說的一樣。
+如同 Ali Abdaal 在 [2024 Alignment Workshop](https://www.productivitylab.com/alignment-workshop?) 工作坊裡說的一樣。
 
 > We don't need to beat ourselves up.  
 >   

@@ -21,7 +21,7 @@ Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_me
 
 《一週工作 4 小時》的作者 Tim Ferris，擁有美國播客界歐普拉的譽名，集數總下載數超過 8 億次。身為知名的創投家、五本暢銷書的作者，卻曾有了結生命的念頭，在 2017 年差點跳下深不見底的斷崖。在面臨人生中害怕的時刻，除了消極應對，他反問自己有沒有其他方法擺脫困境。
 
-為了活下去，恐懼設定清單（[Fear-Setting List](https://tim.blog/2017/05/15/fear-setting/?ref=chinghannhu.ghost.io)）因而誕生。
+為了活下去，恐懼設定清單（[Fear-Setting List](https://tim.blog/2017/05/15/fear-setting/?)）因而誕生。
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
@@ -51,7 +51,7 @@ Tim Ferriss 試著將恐懼具象化、條列化，藉由定義和分析恐懼�
 **該不該提加薪為例：**
 
 - 定義恐懼：被打槍、和主管變得超尷尬、同事酸言酸語、漸漸被公司冷凍、被資遣、後續工作被刁難、信心遭受重擊。
-- 預防：和朋友面對面練習談加薪的說法、確認談加薪的最佳時機（包含考量公司營運現況、自我貢獻和價值、公司和主管和客戶都喜歡你等等，參考文章「[加薪談得攏，5 大重點缺一不可](https://www.businessweekly.com.tw/careers/blog/24542?ref=chinghannhu.ghost.io)」）。
+- 預防：和朋友面對面練習談加薪的說法、確認談加薪的最佳時機（包含考量公司營運現況、自我貢獻和價值、公司和主管和客戶都喜歡你等等，參考文章「[加薪談得攏，5 大重點缺一不可](https://www.businessweekly.com.tw/careers/blog/24542?)」）。
 - 補救：  
     (a) 被打槍，如果信任主管，不妨和他聊聊，過去在公司裡有沒有其他談加薪成功的狀況，請主管就他的經驗分享，並談談自己有哪些部份能再精進，為公司創造更多價值(b) 和主管變得超尷尬、同事酸言酸語、漸漸被公司冷凍、被資遣，以上都不是自己能控制的外部因素，專注在自己能控制的地方就好。只求反求諸己，而不怨天尤人；(c) 如果工作上被刁難，列下被刁難的理由，目前改善的方法有哪些，列下能再試試做的更好的部分；(d) 信心遭受重擊，是時候 Call Out 給你最好的朋友或是親愛的家人囉！好好哭一下，或是大罵。人生嘛，就是有好有壞。
 
