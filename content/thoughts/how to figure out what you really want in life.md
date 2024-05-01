@@ -3,7 +3,7 @@ title: How to Figure Out What You Really Want in Life
 draft: false
 tags:
   - seeds
-date:
+date: 2024/1/27
 ---
 source: [How to Figure Out What You Really Want in Life - YouTube](https://www.youtube.com/watch?v=AriiQaEWyI8)
 

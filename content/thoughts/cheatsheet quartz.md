@@ -4,7 +4,7 @@ draft: false
 tags:
   - seeds
   - technical
-date:
+date: 2024/03/01
 ---
 
 [Building your Quartz](https://quartz.jzhao.xyz/build) 

@@ -5,6 +5,7 @@ tags:
   - seeds
 aliases:
   - 可理解輸入
+date: 2023/08/30
 ---
 
 > We acquire language by knowing what people tell us.

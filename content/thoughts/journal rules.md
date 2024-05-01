@@ -4,6 +4,7 @@ draft: false
 tags:
   - personal-rules
   - journals
+date: 2023/12/14
 ---
 ## Keep in mind
 1. **Never seek perfectionism.** 

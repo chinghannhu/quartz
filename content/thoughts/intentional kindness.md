@@ -4,7 +4,7 @@ draft: false
 tags:
   - kind
   - seeds
-date:
+date: 2024/1/24
 ---
 #### 2 Key Questions to practice 'Intentional Kindness'
 1. Are you alright?

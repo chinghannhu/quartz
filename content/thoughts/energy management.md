@@ -3,7 +3,7 @@ title: Energy Management
 draft: false
 tags:
   - seeds
-date:
+date: 2024/03/01
 ---
 
 [[energy audit]]

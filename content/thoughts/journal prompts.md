@@ -3,6 +3,7 @@ title: Journal Prompts
 draft: false
 tags:
   - journals
+date: 2023/12/14
 ---
 ## Daily Journal
 ## sunrise rituals

@@ -3,7 +3,7 @@ title: Quotes
 draft: false
 tags:
   - seeds
-date:
+date: 2023/12/14
 ---
 ![[booknotes-the-midnight-library#^e3632e]]
 

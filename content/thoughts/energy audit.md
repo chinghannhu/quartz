@@ -3,7 +3,7 @@ title: Energy Audit
 draft: false
 tags:
   - seeds
-date:
+date: 2024/2/7
 ---
 source: [How to Figure Out What You Really Want in Life - YouTube](https://www.youtube.com/watch?v=AriiQaEWyI8)
 
