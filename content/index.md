@@ -7,7 +7,7 @@ description: Welcome! Hello, I’m Hu.I'm a creator, digital designer / casual p
  
 ### Me in 10 Seconds
 
-Welcome! Hello, I’m Hu.
+Welcome! Hello, I’m hu.
 
 I'm a creator, digital designer / casual photographer living in Taipei, Taiwan. 
 
