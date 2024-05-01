@@ -1,11 +1,11 @@
 ---
-title: Journal Rules (Keep in mind)
+title: Journal Rules
 draft: false
 tags:
   - personal-rules
   - journals
 ---
-## Remember
+## Keep in mind
 1. **Never seek perfectionism.** 
 2. **Have fun!** *Enjoy life every chance you get*. Remember to enjoy the moment or trick yourself by telling yourself you choose to do so, and ask yourself, "Isn't it supposed to be fun?"
 3. Treat journal as your best friend, your ally, your playground, or your drawing pad. 
