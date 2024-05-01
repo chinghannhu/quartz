@@ -1,0 +1,67 @@
+---
+title: 內心批判者
+draft: false
+tags: 
+date: 2024/04/22
+---
+Night Everyone!
+
+小小遲到了～
+
+上週末回台中一趟，刻意營造微數位斷捨離，不帶電腦回去。為了不逼死自己，決定錯過原本早上十點發電子報的時間，改成晚上十點發。
+
+我來了～
+
+---
+
+上週提到 [We Tell Our Story](https://chinghannhu.ghost.io/we-tell-our-story/)，自我應驗預言。
+
+> 如果想像自己做得到，就做得到。
+
+> 如果無法想像自己做得到，就無法做到。
+
+能不能實現想像的事情，其實和內心的聲音很有關係。這週想聊聊內心批判者，最近我開始讀《[一本你希望父母讀過的書](https://r10.to/hkYQ88?ref=chinghannhu.ghost.io)》書中剛好提到「內心批判者」。
+
+習慣自省、追求完美、對做的事情抱有很高的責任感、對自己沒有自信，都有可能是因為內心批判者的聲音太大聲，他實在太吵了。
+
+周慕姿在線上課程中把內心批判者比喻成「唱衰魔人」，我蠻喜歡這個比喻，唱衰很傳神，魔人又有那種執著想把對方打趴的感覺。
+
+但是我更喜歡《一本你希望父母讀過的書》 書中對內心批判者的比喻。
+
+> 以前我會和那個聲音爭辯，而且每次都辯輸（此外，爭辯也消耗了太多的精力和注意力）。最近我發現，最好的方法是別理會那個聲音。我幾乎把它當成一個**難搞的同事**看待，我告訴它：「好吧，反正你有權表達意見。」
+
+要怎麼面對內心批判者的方法其實很簡單，不是叫他閉嘴，而是把他當成一個怪咖同事就可以了。
+
+他有權發表他的意見，但不用把他說的話放在心上。試試看左耳進右耳出。
+
+他可以大放厥詞他的想法，或是講一堆很機車的評論，那是他的選擇。
+
+要如何跟內心批判者（怪咖同事）共處的方式，是努力改變自己對他的反應。
+
+如同 Ali Abdaal 在 [2024 Alignment Workshop](https://www.productivitylab.com/alignment-workshop?ref=chinghannhu.ghost.io) 工作坊裡說的一樣。
+
+> We don't need to beat ourselves up.  
+>   
+> What's happened has happened.  
+>   
+> Beating ourselves up doesn't actually do anything to change it.  
+>   
+> Anything other than the fact that we just feel miserable about ourselves.
+
+> 我們不需要自責。發生的事情已經發生了。  
+>   
+> 打擊自己除了徒增痛苦之外，並不能改變既定事實。
+
+要如何與內心批判者共處，可以試試注意自己的感受和情緒，記錄下來，讓衝動的感覺緩一緩。
+
+期待下週見。
+
+hu xx
+
+---
+
+## 本週金句 Quote of the Week
+
+> 承認自己的感受，也考慮對方的感受。也就是說，不要堅持自己是「對的」、對方是「錯的」；不要堅持自己「很聰明」、對方「愚不可及」。一個人老是堅持自己是對的，那是對一段關係或一個家庭最大的耗損力。與其想著誰對誰錯，你應該思考你們各自的感受。
+
+《[一本你希望父母讀過的書](https://r10.to/hkYQ88?ref=chinghannhu.ghost.io)》by Philippa Perry
