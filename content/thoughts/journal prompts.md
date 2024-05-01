@@ -1,5 +1,5 @@
 ---
-title: journal prompts
+title: Journal Prompts
 draft: false
 tags:
   - journals
