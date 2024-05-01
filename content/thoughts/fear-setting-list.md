@@ -7,7 +7,7 @@ date: 2022/12/08
 ---
 ![「恐懼設定清單」：克服恐懼的解藥](https://images.unsplash.com/photo-1634473637038-eeeb90247ec4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGZlYXIlMjB8ZW58MHx8fHwxNjkxMTYzODc3fDA&ixlib=rb-4.0.3&q=80&w=1200)
 
-Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
+<sub>Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)</sub>
 
 ## 什麼是恐懼？
 
@@ -25,7 +25,7 @@ Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_me
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-為什麼應該以恐懼帶領你，而非目標（Tim Ferriss • TED2017）
+<sub>為什麼應該以恐懼帶領你，而非目標（Tim Ferriss • TED2017）</sub>
 
 ---
 
