@@ -7,14 +7,14 @@ date:
 ---
 
 ### Upcoming
-- Newsletter collections
+
 
 ### Working
-- Personal Domain
-
+- Newsletter collections
 
 
 ### Shipped
+- Custom Domain 2024-05-01
 - Home Page 2024-03-10
 - About Page 2024-03-10
 - Now Page 2024-03-09
