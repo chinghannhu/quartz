@@ -1,5 +1,5 @@
 ---
-title: CHH's Blog
+title: chh's blog
 enableDate: false
 enableToc: false
 description: Welcome! Hello, I’m Hu.I'm a creator, digital designer / casual photographer living in Taipei, Taiwan.
