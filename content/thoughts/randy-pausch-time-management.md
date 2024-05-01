@@ -3,7 +3,7 @@ title: Randy Pausch's Time Management
 draft: false
 tags:
   - seeds
-date:
+date: 2008/10/23
 ---
 [[randy-pausch|Randy Pausch]] 2008/2/7
 

@@ -3,6 +3,7 @@ title: i + 1
 draft: false
 tags:
   - seeds
+date: 2023/7/11
 ---
 Comprehensible input 旨在擴大學習對象的單字和語言結構能力，因此學習素材的選擇，通常難度會比學習者的水平高一個層次，稱為「i+1」。
 

@@ -3,7 +3,7 @@ title: Randy Pausch's The Last Lecture
 draft: false
 tags:
   - seeds
-date:
+date: 2008/10/23
 ---
 [[randy-pausch|Randy Pausch]] 2007/12/21
 

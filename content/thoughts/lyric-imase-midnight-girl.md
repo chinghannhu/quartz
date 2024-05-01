@@ -3,7 +3,7 @@ title: imase ミッドナイトガール
 draft: false
 tags:
   - jp
-date:
+date: 2024/03/01
 ---
 
 **source:** [ミッドナイトガール-imase-歌詞 Lyrics-唱歌學日語-MARUMARU](https://www.jpmarumaru.com/tw/JPSongPlay-19850.html)

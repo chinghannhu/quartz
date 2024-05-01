@@ -7,7 +7,7 @@ date: 2022/12/08
 ---
 ![「恐懼設定清單」：克服恐懼的解藥](https://images.unsplash.com/photo-1634473637038-eeeb90247ec4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGZlYXIlMjB8ZW58MHx8fHwxNjkxMTYzODc3fDA&ixlib=rb-4.0.3&q=80&w=1200)
 
-<sup>Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)</sup>
+<sub>Photo by [Vadim Bogulov](https://unsplash.com/@franku84?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)</sub>
 
 ## 什麼是恐懼？
 

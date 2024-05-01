@@ -5,6 +5,7 @@ tags:
   - "#goals"
   - "#events"
 description: The way to have better options is to learn the craft by *doing it yourself*.
+date: 2023/8/22
 ---
 ![Heptabase event notes](hb_firechat_w_justin_lin.png)
 

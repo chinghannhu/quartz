@@ -3,7 +3,7 @@ title: Time Management Guide
 draft: false
 tags:
   - seeds
-date:
+date: 2008/10/23
 ---
 In an interview with Colin and Samir, Ali Abdaal talks about his definition of productivity, where he believes true productivity lies in "**using your time well and using your time intentionally.**" 
 
