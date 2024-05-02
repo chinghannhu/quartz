@@ -19,6 +19,23 @@ Here are several articles to knock on my own head at the right time:
 3. Why I Feel I'm Not Good at Writing
 
 ---
+# Why Now Page?
+
+> For me, the biggest takeaway of the Now page is to remind myself to ***value the present***.
+
+Reminding myself of things to focus on and enjoy in the moment, such as immersing myself in various topics I want to learn or creating freely.
+
+During casual conversations with friends, the most common question is *"What are you doing now?"* Suddenly being asked by this, I might struggle to answer, and the question *"Do I really know what I'm doing?*" pops up in my mind often. In the process of reminiscing about the past and anticipating the future, I easily forget what I want to do and what I can do at the moment. 
+
+Troubled by this situation for a while, I hope to firmly state what I am doing now, hence the writing of the Now page as a reminder.
+
+---
+
+This Now Page is updated at least once a month, on the 14th of each month.
+
+Updated on 2024-05-01, next update on 05-14.
+
+---
 ## # Projects
 
 - Revamping the blog - [I wanted it existed.](https://twitter.com/Nik_Atanackovic/status/1685319990491115520?s=20&ref=chinghannhu.com)
@@ -67,20 +84,7 @@ I aspire to immerse myself in the world of Japan.
 
 ---
 
-# Why Now Page?
-> For me, the biggest takeaway of the Now page is to remind myself to ***value the present***.
 
-Reminding myself of things to focus on and enjoy in the moment, such as immersing myself in various topics I want to learn or creating freely.
-
-During casual conversations with friends, the most common question is *"What are you doing now?"* Suddenly being asked by this, I might struggle to answer, and the question *"Do I really know what I'm doing?*" pops up in my mind often. In the process of reminiscing about the past and anticipating the future, I easily forget what I want to do and what I can do at the moment. 
-
-Troubled by this situation for a while, I hope to firmly state what I am doing now, hence the writing of the Now page as a reminder.
-
----
-
-This Now Page is updated at least once a month, on the 14th of each month.
-
-Updated on 2024-05-01, next update on 05-14.
 
 
 ---
