@@ -14,6 +14,7 @@ date:
 
 
 ### Shipped
+- quartz.config.ts grey style 2024-05-02
 - Custom Domain 2024-05-01
 - Home Page 2024-03-10
 - About Page 2024-03-10
