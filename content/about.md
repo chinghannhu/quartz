@@ -10,9 +10,6 @@ This is a big page that I collect my life events and the process of discovering 
 Last updated: 2024-04-14
 
 ---
-
-
-
 ## I’m Taiwanese
 - **Somehow I speak poor Taiwanese.** Keep working on it.
 - **Taiwan's food is the best.** Please don't fight with me. My guilty pleasure is hot pots and boba tea (or say any other hand-shaken drinks). Weirdly, starting drinking sugar-free milk tea from 2022. I used to drink half sugar. I also love Japanese food, 寿司 and うどん.
@@ -32,3 +29,20 @@ Last updated: 2024-04-14
 ## More about me
 - **I hate noise**. So happy that finally got noise-cancelling headphones at the end of 2023. They have literally made me feel like living in heaven.
 - **I bite nails.**  Nails seem like a good snack for me.
+---
+# 關於我和這個網站
+
+哈囉，我是胡。
+
+台中北漂仔 / 本業平面設計 / 峰迴路轉社內轉職 → 國際業務 / 0.5 個攝影師
+
+1. 每天堅持寫日記，每週堅持寫週報 [[newsletter|Monday Mindset]]。
+2. 喜歡看書的 nerd，每天睡前讀半小時，紙本書和 [[buy-a-kobo|KOBO 閱讀器]]都愛。雜食性閱讀，推理懸疑、溫馨感動、心理勵志、提高生產力⋯當然還有漫畫！
+3. 對各種能提高生產力的工具充滿強烈的好奇心，近期最投入心思的是 Heptabase。
+4. 熱愛「時間區塊」，常把行事曆填滿，有時候需要充電日。
+5. 喜歡拍照，想認真發展的興趣是「追鳥」。
+
+想了解我現在正在做什麼，可以看這個 [[now|Now 頁面]]。
+
+
+
