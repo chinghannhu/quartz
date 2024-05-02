@@ -3,6 +3,7 @@ title: 為什麼不該害怕寫作
 draft: false
 tags:
   - personal
+  - writing
 enableToc: true
 date: 2021/07/10
 description: 3 個克服寫作恐懼的轉念訣竅

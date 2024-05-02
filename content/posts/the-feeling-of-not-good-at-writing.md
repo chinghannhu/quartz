@@ -3,6 +3,7 @@ title: 為何我覺得自己寫得不好
 draft: false
 tags:
   - personal
+  - writing
 enableToc: true
 date: 2023/9/5
 description:

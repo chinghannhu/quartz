@@ -3,6 +3,7 @@ title: 為何純文字仍然是最好的寫作方式
 draft: false
 tags:
   - personal
+  - writing
 enableToc: true
 date: 2023/02/21
 description:
