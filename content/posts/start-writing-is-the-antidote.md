@@ -11,7 +11,7 @@ description: 3 個克服寫作恐懼的轉念訣竅
 
 曾經我也非常害怕寫作。
 
-怕寫東西分享給別人極其自大且自戀。寫作這個念頭盤旋腦海好多年，始終裹足不前。除了草草寫過幾篇影評，就沒有後續了。開始新的計劃和嘗試相對簡單，更難達成的其實是持續不斷的做（[Consistency is king.](https://aliabdaal.com/consistency-is-king/?ref=chinghannhu.ghost.io)）。
+怕寫東西分享給別人極其自大且自戀。寫作這個念頭盤旋腦海好多年，始終裹足不前。除了草草寫過幾篇影評，就沒有後續了。開始新的計劃和嘗試相對簡單，更難達成的其實是持續不斷的做（[Consistency is king.](https://aliabdaal.com/consistency-is-king/)）。
 
 無法持之以恆，似乎才是人之常情。
 
@@ -35,7 +35,7 @@ description: 3 個克服寫作恐懼的轉念訣竅
 
 > 完美主義的相反是完成。
 
-喬恩‧阿考夫（Jon Acuff）在《[完成](https://r10.to/hwSOcc?ref=chinghannhu.ghost.io)》這本書裡提到：**大家認為完美主義的相反就是失敗。其實不然，完美主義的相反是完成。**與其讓想法被完美主義束之高閣，任由它們塵封，不如認清事實，接受不完美。
+喬恩‧阿考夫（Jon Acuff）在《[完成](https://r10.to/hwSOcc)》這本書裡提到：**大家認為完美主義的相反就是失敗。其實不然，完美主義的相反是完成。**與其讓想法被完美主義束之高閣，任由它們塵封，不如認清事實，接受不完美。
 
 沒有最適合的平台，放手寫就對了。
 
@@ -51,7 +51,7 @@ description: 3 個克服寫作恐懼的轉念訣竅
 
 > I don’t have time is a complete myth. It’s that I’m actively choosing not to make the time. - Ali Abdaal
 
-第一次被這個想法衝擊到，是因為喜歡的高效 YouTuber「Ali Abdaal」在[他的 Skillshare 課程](https://www.skillshare.com/classes/Starting-a-Successful-Side-Hustle/1147193977?ref=chinghannhu.ghost.io) 中分享如何透過心境轉變，就可以贏回時間。徹底翻轉我對時間的看法，運用時間變得更有自覺。
+第一次被這個想法衝擊到，是因為喜歡的高效 YouTuber「Ali Abdaal」在[他的 Skillshare 課程](https://www.skillshare.com/classes/Starting-a-Successful-Side-Hustle/1147193977) 中分享如何透過心境轉變，就可以贏回時間。徹底翻轉我對時間的看法，運用時間變得更有自覺。
 
 執行關鍵是不再說「我沒有時間」。
 
@@ -63,7 +63,7 @@ Ali 提到習慣表示沒有時間做某件事，潛台詞其實是不想面對�
 
 ### 3. 沒有人在乎你寫什麼
 
-在資訊爆炸而焦慮的世代下，五花八門的社群軟體，頻繁的通知讓你不停黏在手機上，「[聚光燈效應](https://twitter.com/aliabdaal/status/1279450587889831937?ref=chinghannhu.ghost.io)」（Spotlight Effect）的心理學現象更加顯見，超容易關注其他人的生活，更無法擺脫隨時有聚光燈照著自己的錯覺，想像隨時有人盯著、準備評論自己的舉手投足，因此很怕說錯或做錯事，怕可能招來負面評價。這不是自己往臉上貼金，而是人性。
+在資訊爆炸而焦慮的世代下，五花八門的社群軟體，頻繁的通知讓你不停黏在手機上，「[聚光燈效應](https://twitter.com/aliabdaal/status/1279450587889831937)」（Spotlight Effect）的心理學現象更加顯見，超容易關注其他人的生活，更無法擺脫隨時有聚光燈照著自己的錯覺，想像隨時有人盯著、準備評論自己的舉手投足，因此很怕說錯或做錯事，怕可能招來負面評價。這不是自己往臉上貼金，而是人性。
 
 **被當作笨蛋的恐懼，是人性的極大弱點。**
 
