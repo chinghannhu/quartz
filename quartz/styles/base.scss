@@ -82,8 +82,7 @@ strong {
 
 a {
   font-weight: $semiBoldWeight;
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  text-decoration:none;
   transition: color 0.2s ease;
   color: var(--secondary);
 
