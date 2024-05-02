@@ -28,7 +28,7 @@ Here are some places you may want to visit:
 
 ---
 ### Say Hello
-I love making friends :) You can find me on [Twitter](https://twitter.com/chinghannhu?ref=chinghannhu.com), or just [email me](mailto:hi@chinghannhu.com). 
+I love making friends :) You can find me on [Twitter](https://twitter.com/chinghannhu), or just [email me](mailto:hi@chinghannhu.com). 
 
 
 Or write me a postcard! The address is: 
