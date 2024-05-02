@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       "about": "/about",
       "roadmap": "/roadmap",
       "twitter": "https://twitter.com/chinghannhu",
-      "home": "/",
+      "#home": "/",
     },
   }),
 }
