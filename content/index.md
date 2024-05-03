@@ -10,23 +10,23 @@ description: Welcome! Hello, I’m Hu.I'm a creator, digital designer / casual p
 
 在這，我試著盡情享受把花園當作筆記的遊樂場。
 
-### 10 秒鐘自我介紹
+### # 10 秒鐘自我介紹
 
 哈囉，我是胡。
 
 我是一名創作者，喜歡平面設計和字型，喜歡拍照，喜歡閱讀。北漂台中射手座。
 
-### 10 分鐘自我介紹
+### # 10 分鐘自我介紹
 
 我的朋友有時候會叫我胡胡，在網路上我習慣用的別名是 hu 或 hann。
 
 更多詳細的資訊，可以看這個 [[about|About 頁面]]。
 
-### 我正在做什麼
+### # 我正在做什麼
 
 想了解我現在正在做什麼，可以看這個 [[now|Now 頁面]]。
 
-### 說聲哈囉亂聊
+### # 說聲哈囉亂聊
 
 我喜歡交朋友，常在 [推特](https://twitter.com/chinghannhu)出沒，有比較長的想法也可以用 [email](mailto:hi@chinghannhu.com) 聊聊喔。
 
@@ -35,18 +35,18 @@ description: Welcome! Hello, I’m Hu.I'm a creator, digital designer / casual p
 → 11299 北投明德郵局第 14 號信箱 
 
 ---
-### Me in 10 Seconds
+### # Me in 10 Seconds
 
 Welcome! Hello, I’m hu.
 
 I'm a creator, digital designer / casual photographer living in Taipei, Taiwan. 
 
-### Me in 10 Minutes
+### # Me in 10 Minutes
 My friends sometimes call me huhu, or you may just call me Hann. Either works for me :) 
 
 More on my "[[about]]" page.
 
-### What am I Doing Now?
+### # What am I Doing Now?
 See my "[[now]]" page.
 
 
@@ -56,7 +56,7 @@ Here are some places you may want to visit:
 
 
 ---
-### Say Hello
+### # Say Hello
 I love making friends :) You can find me on [Twitter](https://twitter.com/chinghannhu), or just [email me](mailto:hi@chinghannhu.com). 
 
 Or write me a postcard! The address is: 
