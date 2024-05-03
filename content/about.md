@@ -3,7 +3,7 @@ title: About
 draft: false
 tags: []
 ---
-# 關於我和這個網站
+## # 關於我和這個網站
 
 哈囉，我是胡。
 
@@ -16,13 +16,13 @@ tags: []
 5. 喜歡拍照，想認真發展的興趣是「追鳥」。
 
 想了解我現在正在做什麼，可以看這個 [[now|Now 頁面]]。
+
 ---
+## About me
 
 Hey, I'm hu.
 
 This is a big page that I collect my life events and the process of discovering my true self. It's always challenging for me to introduce myself to others. I would like to jot down some simple and clear facts to remind myself that I'm a valuable person. I believe it's a good way to build my own self-worth. Also, thank you for stepping into my world ;)
-
-Last updated: 2024-04-14
 
 ---
 ## I’m Taiwanese
@@ -48,4 +48,4 @@ Last updated: 2024-04-14
 
 
 
-
+Last updated: 2024-05-03
