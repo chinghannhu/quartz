@@ -95,9 +95,9 @@ Matthew 忽然明白眼前的人更瞭解自己，更深入自己的內心。
 
 每天晚上 23:30，靜下來，花五分鐘，問自己這個問題：
 
-> **What’s the most story-worth thing that happened today?  
+> What’s the most story-worth thing that happened today?  
 >   
-> 今天發生最故事性的一刻是什麼？**
+> 今天發生最故事性的一刻是什麼？
 
 然後寫下兩三句話，完成！
 

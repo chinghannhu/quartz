@@ -18,6 +18,8 @@ description: Welcome! Hello, I’m Hu.I'm a creator, digital designer / casual p
 
 想了解我現在正在做什麼，可以看這個 [[now|Now 頁面]]。
 
+我每個週末會寫電子報，可以看這個 [[newsletter|電子報頁面]]。
+
 ## # 說聲哈囉亂聊
 
 我喜歡交朋友，常在 [推特](https://twitter.com/chinghannhu)出沒，有比較長的想法也可以用 [email](mailto:hi@chinghannhu.com) 聊聊喔。
