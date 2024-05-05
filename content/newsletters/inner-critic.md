@@ -3,6 +3,7 @@ title: 內心批判者
 draft: false
 tags: 
 date: 2024/04/22
+description: 習慣自省、追求完美、對做的事情抱有很高的責任感、對自己沒有自信，都有可能是因為內心批判者的聲音太大聲，他實在太吵了。
 ---
 Night Everyone!
 

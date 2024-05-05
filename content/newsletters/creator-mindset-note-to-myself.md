@@ -3,6 +3,7 @@ title: 創作者心態的提醒
 draft: false
 tags: 
 date: 2024/02/26
+description: 世上沒有絕對的完美，每個人都有自己的風格和節奏。選擇自己的戰場，只要站上去，你就已經是場上的戰士了。不要拘泥在 title 上，享受創作的樂趣才是關鍵。
 ---
 Morning everyone!
 

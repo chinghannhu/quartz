@@ -3,6 +3,7 @@ title: 斷線練習第一步
 draft: false
 tags: 
 date: 2024/03/4
+description: 無時無刻，我們的心神因為與人產生連結而耗弱，因為龐大的資訊襲來而疲乏，卻不由自主地頻頻滑手機。
 ---
 Morning everyone!
 

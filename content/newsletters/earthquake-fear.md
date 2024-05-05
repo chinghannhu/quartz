@@ -3,6 +3,7 @@ title: 地震怕怕
 draft: false
 tags: 
 date: 2024/04/29
+description: 把我從熟睡搖醒的地震，真的好怕⋯⋯
 ---
 Morning Everyone!
 

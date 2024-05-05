@@ -3,6 +3,7 @@ title: 第二次諮商
 draft: false
 tags: 
 date: 2024/03/18
+description: 真的感謝自己終於跨出去諮商的第一步，能一吐為快地說出心中的想法，狂傾倒給諮心理師，真的是暢快。
 ---
 Morning Everyone!
 

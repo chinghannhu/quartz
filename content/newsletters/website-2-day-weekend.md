@@ -3,6 +3,7 @@ title: 週末連續架站了兩天
 draft: false
 tags: 
 date: 2024/03/11
+description: 又陷入架站的世界中，今年還是想挑戰一下架架看靜態網站。
 ---
 Morning Everyone!
 

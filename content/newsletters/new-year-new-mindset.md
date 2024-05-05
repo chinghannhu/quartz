@@ -3,6 +3,7 @@ title: 新年新希望的心態轉變
 draft: false
 tags: 
 date: 2024/01/15
+description: 期待我們在新的一年裡，找到屬於自己的步調，設定實際可行目標，享受每一天！
 ---
 Morning everyone!
 

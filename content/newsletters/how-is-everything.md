@@ -3,6 +3,7 @@ title: 最近過得好嗎？
 draft: false
 tags: 
 date: 2024/02/19
+description: 每當有人輕描淡寫地問我：「最近過得好嗎？」我總是會有種腦袋瞬間格式化的感覺。
 ---
 Morning everyone!
 

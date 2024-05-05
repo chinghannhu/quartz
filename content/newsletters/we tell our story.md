@@ -3,6 +3,7 @@ title: We Tell Our Story
 draft: false
 tags: 
 date: 2024/04/15
+description: 心中的聲音對於是否可以實現事情，佔有很大的力量。
 ---
 Morning Everyone!
 

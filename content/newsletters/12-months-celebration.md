@@ -3,6 +3,7 @@ title: 12 個月後的慶祝
 draft: false
 tags: 
 date: 2024/01/22
+description: 今天想來聊聊新年新目標的制定方法——12 Months Celebration（12 個月後的慶祝）。
 ---
 Morning Everyone!
 

@@ -3,6 +3,7 @@ title: 新竹之旅
 draft: false
 tags: 
 date: 2024/04/1
+description: 只能說新竹地頭蛇好厲害，每個行程之間幾乎沒有間斷，完全沒有苦惱下一個景點，順順地走完一整天，好充實。
 ---
 Morning Everyone!
 

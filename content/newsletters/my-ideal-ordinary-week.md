@@ -3,6 +3,7 @@ title: 我的理想平凡一週
 draft: false
 tags: 
 date: 2023/01/02
+description: 如何讓今天和別的日子不同？創造儀式，創造儀式感，創造新的日常，充實的七天＝理想平凡一週。
 ---
 Morning Everyone!
 
