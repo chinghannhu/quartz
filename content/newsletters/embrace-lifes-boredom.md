@@ -2,7 +2,7 @@
 title: 生活無聊才正常
 draft: false
 tags: 
-date: 2024/12/25
+date: 2023/12/25
 description: 乏味和平淡才是日常。
 ---
 Merry Christmas everyone!
