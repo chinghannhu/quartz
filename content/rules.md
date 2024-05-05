@@ -35,6 +35,7 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V_Ur9Am-0pY?si=bLRcTjugv0PJsfhj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 1. Sheldon 坐在沙發固定的位置（他的寶位）：沒有人可以搶他的位子，在開播第一集，Sheldon 一鼓作氣地和鄰居 Penny 說明為什麼自己只坐那個位子。[^2]
 
 > 	"In the winter that seat is close enough to the radiator to remain warm, and yet not so close as to cause perspiration. In the summer it's directly in the path of a cross breeze created by open windows there, and there. It faces the television at an angle that is neither direct, thus discouraging conversation, nor so far wide to create a parallax distortion."
