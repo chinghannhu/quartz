@@ -9,6 +9,8 @@ Morning everyone!
 
 每當有人輕描淡寫地問我：「最近過得好嗎？」我總是會有種腦袋瞬間格式化的感覺，彷彿我的生活就像是剛剛被清空的 USB 一樣，什麼都沒有。雖然我知道自己的日子並非空白如紙，但在這問題面前，我很常腦袋空白，真的是一片空白。
 
+---
+
 ## **做自己的生命設計師**
 
 最近我開始讀《[做自己的生命設計師](https://r10.to/hN22rd?ref=chinghannhu.com)》，讀了之後，我發現如果照著書中方法釐清工作觀和人生觀，慢慢建構生活的藍圖，下次有人問我「最近怎樣？」我可以信心滿滿地說：「人生真的是很美好！」並且解釋閒聊為什麼我這麼覺得。
@@ -22,7 +24,8 @@ Morning everyone!
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F60rVOE5mJw?si=Dm-Ymt2KZ4IQHjQy&amp;start=7121" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-## **True Exercise**
+
+## True Exercise
 
 老實說，我有時候也會覺得自己不夠自信，感覺自我價值有點低，而我最近在嘗試一個叫做「True Exercise」，這是從 Ali Abdaal 和 Robin Waite 的訪談中學到的。
 
