@@ -116,4 +116,4 @@ hu xx
 >   
 > 或許我可以勉強自己考慮這種可能，那就是在超市裡排隊結帳的每個人，或許都和我一樣心煩而沮喪，甚至有些人的整體處境，其實比我更為艱辛、乏味及痛苦。
 
-From 《[這是水](https://book.tpml.edu.tw/bookDetail/282174?qs=%7B%5Eurl3%2C%2Fsearch4%2Cquery%5E%3A%7B%5E%2Cs23%2CFullText4%2C%2Cs13%2C%E9%80%99%E6%98%AF%E6%B0%B4%5E%7D%7D&serialNo=1&ref=chinghannhu.com)》, by 大衛.福斯特.華萊士(David Foster Wallace)
+From 《[這是水](https://book.tpml.edu.tw/bookDetail/282174?qs=%7B%5Eurl3%2C%2Fsearch4%2Cquery%5E%3A%7B%5E%2Cs23%2CFullText4%2C%2Cs13%2C%E9%80%99%E6%98%AF%E6%B0%B4%5E%7D%7D&serialNo=1&ref=chinghannhu.com)》, by 大衛.福斯特.華萊士（David Foster Wallace）
