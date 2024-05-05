@@ -33,11 +33,11 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
 
 下為三個我最喜歡的 Sheldon 個人守則：
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_Ur9Am-0pY?si=bLRcTjugv0PJsfhj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 1. Sheldon 坐在沙發固定的位置（他的寶位）：沒有人可以搶他的位子，在開播第一集，Sheldon 一鼓作氣地和鄰居 Penny 說明為什麼自己只坐那個位子。[^2]
 
 > 	"In the winter that seat is close enough to the radiator to remain warm, and yet not so close as to cause perspiration. In the summer it's directly in the path of a cross breeze created by open windows there, and there. It faces the television at an angle that is neither direct, thus discouraging conversation, nor so far wide to create a parallax distortion."
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V_Ur9Am-0pY?si=bLRcTjugv0PJsfhj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 2. Sheldon 離浴室鏡子有固定的距離：在 Leonard 的女友 Priya 站離浴室中的鏡子太近剔牙，從 Leonard 口中得到 Sheldon 的浴室規則解說。[^3]
 3. Sheldon 不送禮物也不接受禮物：他不喜歡送禮和收禮之間的互動，不喜歡這種來回永無止盡的猜想，不喜歡禮物價值不對等，有可能對方會欠自己，或是自己欠別人的感覺。 [^4]
