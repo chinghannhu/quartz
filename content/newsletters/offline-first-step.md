@@ -20,7 +20,7 @@ Morning everyone!
 
 我安裝了 [Opal](https://www.opal.so/?ref=chinghannhu.com)，封鎖我最常不自覺點的 LINE 和推特。
 
-![alt](opalsceenshot01.png) ![alt](opalsceenshot02.png) 
+![alt](https://www.chinghannhu.com/files/opalsceenshot01.png) ![alt](https://www.chinghannhu.com/files/opalsceenshot02.png) 
 更是心一橫的刪了 Instagram，看看哪天會發抖到想裝回來用。
 
 仔細想想，確實我會錯過朋友很多分享的生活片刻，但比起來，我或許更希望親口聽他們談論那些體驗。
