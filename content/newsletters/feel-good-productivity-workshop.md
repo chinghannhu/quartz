@@ -17,6 +17,8 @@ description: 我復活了！參加了 Ali Abdaal 的 Workshop！好讚。
 
 ## **病情更新**
 
+![](https://media.tenor.com/yOMT7F9ygYoAAAAC/quarantine-pandemic.gif)
+
 上週真是奇妙，忽然就中了 COVID。
 
 感覺像送還給老天一個星期，整整七天困在失控的肉體中，喉嚨像刀割。
@@ -28,6 +30,8 @@ description: 我復活了！參加了 Ali Abdaal 的 Workshop！好讚。
 ---
 
 ## **The Feel-Good Productivity Annual Planning Workshop**
+
+![[ali-2024-jan-workshop.png]]
 
 因為之前買了書《[Feel-Good Productivity](https://r10.to/hYylyP?ref=chinghannhu.com)》，有機會參加 Ali Abdaal 的 Workshop。
 
