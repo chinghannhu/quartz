@@ -7,7 +7,7 @@ tags:
 description: The way to have better options is to learn the craft by *doing it yourself*.
 date: 2023/8/22
 ---
-![Heptabase event notes](public/files/hb_firechat_w_justin_lin.png)
+![Heptabase event notes](hb_firechat_w_justin_lin%201.png)
 
 I was thrilled to discover on [Twitter](https://twitter.com/pirrer/status/1690650721375674368?ref=chinghannhu.com) that famous director Justin Lin was visiting Taiwan and giving a talk in Taipei. So excited to attend the event [Fireside Chat with Justin Lin](https://www.opentix.life/event/1684491940890546177?ref=chinghannhu.com) .
 

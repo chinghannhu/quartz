@@ -23,7 +23,7 @@ date:
 
 In my forest or digital garden.
 
-![my forest](public/files/file-NSqaXW9oEKkyEIM5zYQzyuqR.png)
+![[my-forest.png]]
 ## Build Digital Garden
 
 ### Serve My Mind And Brain
