@@ -40,10 +40,14 @@ div h1 a {
 }
 
 p {
+  line-height: 2;
   margin-top: 1.6em;
+  color: var(--darkgray);
+  fill: var(--darkgray);
+  overflow-wrap: anywhere;
+  hyphens: auto;
 }
 
-p,
 ul,
 text,
 tr,
@@ -57,7 +61,7 @@ ul,
   fill: var(--darkgray);
   overflow-wrap: anywhere;
   hyphens: auto;
-  line-height: 2;
+  line-height: 1.6rem;
   
 }
 
