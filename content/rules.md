@@ -4,6 +4,7 @@ draft: false
 tags:
   - personal
   - personal-rules
+date: 2024-05-05
 ---
 當進到一個空間前，我很習慣先詳閱空間的規則。
 
