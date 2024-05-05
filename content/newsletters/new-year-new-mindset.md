@@ -4,10 +4,6 @@ draft: false
 tags: 
 date: 2024/01/15
 ---
-# **新年新希望的心態轉變**
-
-#### Jan 15, 2024
-
 Morning everyone!
 
 每到新年，設定目標總讓我壓力山大。
@@ -63,7 +59,9 @@ Morning everyone!
 
 一目瞭然的年度表格，對於分配一年中的重大事件非常有效，能對年度目標和計畫有一個更深、更廣泛的總體了解。
 
-全年預覽表（Year at a glance）
+![[yaag01.png]]
+
+*全年預覽表（Year at a glance）*
 
 **寫全年預覽表的好處有三點：**
 

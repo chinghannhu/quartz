@@ -11,7 +11,7 @@ Comprehensible input 旨在擴大學習對象的單字和語言結構能力，�
 
 以觀看影片為例，評斷標準在於能不能聽懂 50-60%，如果能掌握 80% ，就會建議去找新的影片了。
 
-![i+1.png](i+1.png)
+![i+1.png](public/files/i+1.png)
 source: [The Most Critical Ingredient to Learning Spanish: Comprehensible Input](https://www.spanish.academy/blog/the-most-critical-ingredient-to-learning-spanish-comprehensible-input/)
 
 
