@@ -75,9 +75,10 @@ Donna Cameron 在章節最後的 Kindness in Action 提出，當我們下次遇�
 ---
 
 ![](https://media.tenor.com/0PEgYCqZjYwAAAAC/youre-a-good-person-joe-goldberg.gif)
+
 我這次的經歷有點糗，只能說好險也沒鬧大。
 
-同時也教會了我不要因為一次的失敗就放棄行善，如同《[這是水](https://www.chinghannhu.com/embrace-lifes-boredom/)》演說中教導我的那樣，每個人都背負著各種痛苦，如果我能再強化我的心智，更設身處地的為人著想，就能為這個世界減少一點痛苦 :)
+同時也教會了我不要因為一次的失敗就放棄行善，如同《[[embrace-lifes-boredom|這是水]]》演說中教導我的那樣，每個人都背負著各種痛苦，如果我能再強化我的心智，更設身處地的為人著想，就能為這個世界減少一點痛苦 :)
 
 期待下週見！
 
