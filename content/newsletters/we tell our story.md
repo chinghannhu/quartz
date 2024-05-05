@@ -32,7 +32,7 @@ Morning Everyone!
 
 他是不是用更狠的話對自己說，打擊自己，讓自己不敢去追求心中想要的，怕自己期待越高失望越高。
 
-
+---
 
 ## 自我應驗預言——We Tell Our Story
 
@@ -62,4 +62,4 @@ hu xx
 
 > 一路累積的成果絕不會背叛自己。
 
-from 《[葬送的芙莉蓮](https://www.youtube.com/watch?v=cBzYJtk9tnw&list=PL12UaAf_xzfpHlIkQd-mHKo6pBQYEPDV-&index=12)》
+From 《[葬送的芙莉蓮](https://www.youtube.com/watch?v=cBzYJtk9tnw&list=PL12UaAf_xzfpHlIkQd-mHKo6pBQYEPDV-&index=12)》
