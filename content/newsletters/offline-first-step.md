@@ -20,7 +20,8 @@ Morning everyone!
 
 我安裝了 [Opal](https://www.opal.so/?ref=chinghannhu.com)，封鎖我最常不自覺點的 LINE 和推特。
 
-![alt](https://www.chinghannhu.com/files/opalsceenshot01.png) ![alt](https://www.chinghannhu.com/files/opalsceenshot02.png) 
+![[opalsceenshot01.png]]
+![[opalsceenshot02.png]]
 更是心一橫的刪了 Instagram，看看哪天會發抖到想裝回來用。
 
 仔細想想，確實我會錯過朋友很多分享的生活片刻，但比起來，我或許更希望親口聽他們談論那些體驗。
@@ -42,6 +43,8 @@ YouTube 讓我更能主宰自己的學習時間，我通常會在開始看一部
 ---
 
 ## **借助 AI 的力量斷線練習**
+
+![](https://media.tenor.com/v4JrLPsJsgMAAAAC/its-time-to-stop-just-stop.gif)
 
 我請 ChatGPT 幫我擬了三個月的數位斷捨離計畫 [Digital Detox Program](https://chat.openai.com/share/f549c825-84fa-470d-8822-7a857ebb70a6?ref=chinghannhu.com)：
 
@@ -69,4 +72,4 @@ hu xx
 
 > 驀然回首才驚覺，為什麼我會那麼忙著上網跟大家報告近況呢？
 
-《[離線練習](https://r10.to/hkr31h?ref=chinghannhu.com)》by 安藤美冬
+From《[離線練習](https://r10.to/hkr31h?ref=chinghannhu.com)》by 安藤美冬
