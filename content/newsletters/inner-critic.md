@@ -15,7 +15,7 @@ Night Everyone!
 
 ---
 
-上週提到 We Tell Our Story，自我應驗預言。
+上週提到 [[we tell our story|We Tell Our Story]]，自我應驗預言。
 
 > 如果想像自己做得到，就做得到。
 
