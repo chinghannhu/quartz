@@ -11,7 +11,7 @@ Merry Christmas everyone!
 
 ![](https://media.tenor.com/-U3e0m8uZecAAAAC/ive-got-a-lot-of-work-to-do-santa-claus.gif)
 
-fi12 月進入尾聲，火燒屁股準備 2023 年度回顧。
+12 月進入尾聲，火燒屁股準備 2023 年度回顧。
 
 仔細地反覆瀏覽日記，發現其實大部分的日子看起來都沒有太過特別，雖然也有一些奇妙的時刻。例如一天之內打翻便當、推倒喉糖罐、灑了一地昆布湯⋯⋯呵呵奶油手⋯⋯到底是多奶油手咧。新的一年要好好思考怎麼提升握力或是與東西之間的摩擦力。
 
