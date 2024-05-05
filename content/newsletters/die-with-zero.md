@@ -26,9 +26,8 @@ Morning Everyone!
 
 因此，之於朋友我的九十天目標是這樣寫的：
 
-Great Friend - Monthly dates, regular life update. Actively listen to them and find a better way to interact with them.
-
-Action point - book lunch or dinner with friends. / give Die with Zero as gift.
+1. Great Friend - Monthly dates, regular life update. Actively listen to them and find a better way to interact with them.
+2. Action point - book lunch or dinner with friends. / give Die with Zero as gift.
 
 ---
 
