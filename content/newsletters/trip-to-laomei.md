@@ -12,7 +12,7 @@ Morning Everyone!
 
 又在家漫不經心地滑著手機，滑到推友[長裙富翁的貼文](https://twitter.com/heimlichkeiten/status/1776122632053878792)分享，一看到石槽綠的蠻可愛，立馬決定啟程。
 
-
+---
 ## 制定旅遊的方式「全年預覽表」
 
 會安排去看老梅石槽，是因為年初的時候快速查了推薦觀賞季節是三月到五月之間，隨手寫在全年預覽表上的四月假期。
@@ -31,7 +31,7 @@ Morning Everyone!
 
 歡迎你試試看，[全年預覽表（Year at a glance）下載連結](https://docs.google.com/spreadsheets/d/1llBGh5gXi-3VW_afpNGn-FdotY83Mh2xC73DTQh8Jqs/copy)。
 
-
+---
 
 ## 老梅石槽旅遊分享
 
@@ -46,6 +46,8 @@ Morning Everyone!
 這次旅遊順順的，很幸運。剛好坐上回程車的時候才下雨，一切順順地回到台北，雨也剛好停。
 
 下過雨真的會讓人感到很開心，雖然被淋濕或是腳濕濕的很不舒服，但換得好空氣還有涼爽的氣溫，真的很幸福～長大之後也慢慢體會到下雨的美好。
+
+---
 
 ## 旅遊趣事小談
 
@@ -66,6 +68,8 @@ Morning Everyone!
 期待下週見。
 
 hu xx
+
+---
 
 ## 本週金句 Quote of the Week
 

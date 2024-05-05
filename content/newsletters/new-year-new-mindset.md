@@ -16,7 +16,7 @@ Morning everyone!
 
 而是我沒有設定「可行目標」。
 
-
+---
 ## **什麼是可行目標（actionable plan）？**
 
 > 設定具體可行的目標，才知道靠近目標的下一步是什麼。
@@ -35,7 +35,7 @@ Morning everyone!
 
 認同自己是健康的人，然後做出相應的行動，就能提高達到目標的機率。
 
-
+---
 ## **對於新年新希望的心態**
 
 今年心態有一個大轉變。
@@ -48,7 +48,7 @@ Morning everyone!
 
 這種慢慢改變的感覺真的超讚！
 
-
+---
 ## **制定新年新希望的第一步**
 
 想分享一個我今年初開始嘗試的方法－「**全年預覽表（Year at a glance）**」，引用自 Ali Abdaal 的 YouTube 影片 [How I Manage My Time - The Trident Calendar System](https://www.youtube.com/watch?v=6o2tm00Ar8A&ref=chinghannhu.com)。
@@ -69,15 +69,14 @@ Morning everyone!
 2. **追蹤計劃**：適用於長期計劃和追蹤全年的重要事件和截止日期，有助於理解自己的時間是如何分配在不同的活動上。
 3. **顏色編碼**：視覺上更容易區分不同類型的日子（如週末）或月份。
 
-
+---
 ### **如何製作「全年預覽表（Year at a glance）？**
 
 方法很簡單，第一步是製作一份全年度的 google 表單，或是你可以從這邊複製一份 [Year at a Glance - Template](https://docs.google.com/spreadsheets/d/1llBGh5gXi-3VW_afpNGn-FdotY83Mh2xC73DTQh8Jqs/copy?ref=chinghannhu.com)。
 
 新的一年，就從新的行動開始！先複製一份吧。
 
-
-
+---
 ## **分享一下去年的小轉變**
 
 每次在路上遇到急著超車、鑽過我旁邊的人，都會被嚇到，以前很常隨口就罵髒話，對遇到這樣的情況很不開心。
@@ -90,7 +89,7 @@ Morning everyone!
 
 hu xx
 
-
+---
 ## **本週金句 Quote of the Week**
 
 > People spend too much time doing and not enough time thinking about what they should be doing. [@NavalismHQ](https://twitter.com/NavalismHQ/status/1481497485986058242?ref=chinghannhu.com) —Naval Ravikant
