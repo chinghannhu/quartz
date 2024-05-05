@@ -38,7 +38,7 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
 > "In the winter that seat is close enough to the radiator to remain warm, and yet not so close as to cause perspiration. In the summer it's directly in the path of a cross breeze created by open windows there, and there. It faces the television at an angle that is neither direct, thus discouraging conversation, nor so far wide to create a parallax distortion."
 
 2. Sheldon 離浴室鏡子有固定的距離：在 Leonard 的女友 Priya 站離浴室中的鏡子太近剔牙，從 Leonard 口中得到 Sheldon 的浴室規則解說。[^3]
-3. Sheldon 不送禮物也不接受禮物：他不喜歡送禮和收禮之間的互動，不喜歡這種來回永無止盡的猜想，不喜歡禮物價值不對等，有可能對方會欠自己，或是自己欠別人的感覺。[^4]
+3. Sheldon 不送禮物也不接受禮物：他不喜歡送禮和收禮之間的互動，不喜歡這種來回永無止盡的猜想，不喜歡禮物價值不對等，有可能對方會欠自己，或是自己欠別人的感覺。 [^4]
 
 上述這些個人守則聽起來非常荒唐，荒唐的嚴謹，Sheldon 充滿秩序的展現。
 
@@ -48,7 +48,7 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
 
 1. 禁止比減少好。
 
-> I’m not good at moderation. I’m much better with fasting than caloric restriction, for instance. “No dessert” is a lot easier for me than “some dessert.” I thrive with loving constraints: strict, binary rules that remove all deliberation and protect me from my lesser self. - Tim Ferriss[^5]
+> I’m not good at moderation. I’m much better with fasting than caloric restriction, for instance. “No dessert” is a lot easier for me than “some dessert.” I thrive with loving constraints: strict, binary rules that remove all deliberation and protect me from my lesser self. - Tim Ferriss [^5]
 
 
 2. 盡量明確地寫下時間地點和任務內容。原子習慣書中提到如果要養成生活習慣，第一個步驟是，設定自己的習慣。設定的方式寫下「我幾點幾分要在哪做什麼事情做多長時間。」
@@ -124,9 +124,7 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
 
 [^3]: ‌to, C. (2023). The Bathroom. Retrieved May 5, 2024, from The Big Bang Theory Wiki website: https://bigbangtheory.fandom.com/wiki/The_Bathroom
 
-‌[^4]: to, C. (2023). The Bath Item Gift Hypothesis. Retrieved May 5, 2024, from The Big Bang Theory Wiki website: https://bigbangtheory.fandom.com/wiki/The_Bath_Item_Gift_Hypothesis
-
-‌
+[^4]: to, C. (2023). The Bath Item Gift Hypothesis. Retrieved May 5, 2024, from The Big Bang Theory Wiki website: https://bigbangtheory.fandom.com/wiki/The_Bath_Item_Gift_Hypothesis
 
 [^5]: Ferriss, T. (2020, January 21). Finding the One Decision That Removes 100 Decisions (or Why I’m Reading No New Books) - The Blog of Author Tim Ferriss. Retrieved May 5, 2024, from The Blog of Author Tim Ferriss website: https://tim.blog/2020/01/20/one-decision-that-removes-100-decisions/
 
