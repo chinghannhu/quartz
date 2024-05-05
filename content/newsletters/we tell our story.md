@@ -1,5 +1,5 @@
 ---
-title: We Tell Our Story
+title: 我述說我的故事
 draft: false
 tags: 
 date: 2024/04/15
@@ -35,7 +35,7 @@ Morning Everyone!
 
 ---
 
-## 自我應驗預言——We Tell Our Story
+## 自我應驗預言——我述說我的故事（We Tell Our Story）
 
 周慕姿在線上課程中提過「自我應驗預言」（self-fulfilling prophecy）這個概念，又稱為畢馬龍效應。
 
