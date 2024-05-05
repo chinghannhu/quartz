@@ -40,4 +40,4 @@ hu xx
 
 > 懷抱希望踏上旅程，要比抵達目的地重要。-日本諺語
 
-《[高山上的小郵局](https://www.chinghannhu.com/booknotes-the-little-post-office-on-the-mountain/)》 by Ángeles Doñate
+From《[高山上的小郵局](https://www.chinghannhu.com/booknotes-the-little-post-office-on-the-mountain/)》 by Ángeles Doñate
