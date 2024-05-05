@@ -47,7 +47,7 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
 
 ---
 
-### 守則設定方式
+## 我的個人守則設定方式
 
 1. 禁止比減少好。
 
