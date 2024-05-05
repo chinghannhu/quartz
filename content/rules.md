@@ -95,7 +95,7 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
 
 1. 比起項目符號清單（bulleted lists），我會優先選擇使用編號清單（numbered lists）。
     
-2. 日期格式只使用 2024-01-01，或是 Jan 1,2024。時間格式只用 24 小時制，例如 23:30。
+2. 日期格式只使用 2024-01-01，或是 Jan 1, 2024。時間格式只用 24 小時制，例如 23:30。
     
 3. 中英文間會增加空白鍵隔開，盡力遵守[《中文文案排版指北》](https://github.com/sparanoid/chinese-copywriting-guidelines)。
     
