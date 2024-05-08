@@ -14,7 +14,7 @@ date: 2024-05-05
 
 可能是因為我是 INFJ，J 的部分會想要衝出來當風紀股長。但許多人其實看看規則都只是參考用，我現在會試著跟心中的風紀股長說，對呀，那個人就是不守規則，你很棒，可以退下囉。
 
-回到為什麼我想要寫個人守則（Personal Rules），因為在轉換想法或是任務的時候會造成大量時間的消耗，我想減少這些切換的消耗，無論是能量或是時間上的消耗。[^1]
+回到為什麼我想要寫個人守則（Personal Rules），因為在轉換想法或是任務的時候會造成大量的消耗，我想減少這些切換的消耗，無論是能量或是時間上的消耗。[^1]
 
 > Multitasking is a myth. In reality, it’s rapidly switching from one task to another, and then back again. And every time you make that switch, you pay a ‘tax’ on both your time and your energy. For that reason, it’s almost always more efficient to monotask: Focus on one thing and move on when you’re done, so you don’t pay unnecessary switching taxes.”
 > 
@@ -34,10 +34,8 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
 
 下為三個我最喜歡的 Sheldon 個人守則：
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V_Ur9Am-0pY?si=bLRcTjugv0PJsfhj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 1. Sheldon 坐在沙發固定的位置（他的寶位）：沒有人可以搶他的位子，在開播第一集，Sheldon 一鼓作氣地和鄰居 Penny 說明為什麼自己只坐那個位子。[^2]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_Ur9Am-0pY?si=bLRcTjugv0PJsfhj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 	"In the winter that seat is close enough to the radiator to remain warm, and yet not so close as to cause perspiration. In the summer it's directly in the path of a cross breeze created by open windows there, and there. It faces the television at an angle that is neither direct, thus discouraging conversation, nor so far wide to create a parallax distortion."
 
