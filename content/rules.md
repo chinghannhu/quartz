@@ -6,6 +6,8 @@ tags:
   - personal-rules
 date: 2024-05-05
 ---
+> Sometimes words can get in the way. Guidance is not the only way to approach things. It only helps you to clarify. 
+
 當進到一個空間前，我很習慣先詳閱空間的規則。
 
 看看感覺合不合理或有不有趣。
