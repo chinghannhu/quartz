@@ -1,10 +1,11 @@
 ---
 title: 我的電子報想寫哪些內容？
-draft: true
+draft: false
 tags: 
 date: 2023/09/04
+description: 這週和智慧夥伴 Claude 討論電子報該寫什麼，還有分享本週的新發現「阿基米德背後的真實故事」。
 ---
-`2023-09-04`
+![[hu-write-what-you-love.png]]
 
 Morning everyone!
 
