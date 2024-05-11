@@ -89,7 +89,7 @@ You’re gonna die. 提醒我審視自己現在是不是正在做喜歡和有意
 
 hu xx
 
-[^1] Laurence, E. (2021, September 10). Your Morning Coffee Might Backfire if You Drink It Too Early. Retrieved May 11, 2024, from Well+Good website: https://www.wellandgood.com/best-time-drink-coffee-morning/
+[^1]: Laurence, E. (2021, September 10). Your Morning Coffee Might Backfire if You Drink It Too Early. Retrieved May 11, 2024, from Well+Good website: https://www.wellandgood.com/best-time-drink-coffee-morning/
 
 ---
 

@@ -13,7 +13,7 @@ Morning everyone!
 
 半年發生了許多事情，例如驚險的社內轉職，有機會再分享。
 
-這次回來，我將帶回全新電子報的書寫方式。我曾將 Nicolas Cole¹ 說的話奉為圭臬，他認為要仰賴寫作致富，必須以「為讀者服務」（[Serving the reader](https://youtu.be/JIfEgvpEufU?si=bj0PGvCCQdBJcNo4&t=6856)）為前提創作。因此，過去我不斷參考和試圖模仿其他電子報，心想應該如何吸引更多人訂閱或是閱讀。但是經過半年的沈澱，我發現我錯了。
+這次回來，我將帶回全新電子報的書寫方式。我曾將 Nicolas Cole[^1] 說的話奉為圭臬，他認為要仰賴寫作致富，必須以「為讀者服務」（[Serving the reader](https://youtu.be/JIfEgvpEufU?si=bj0PGvCCQdBJcNo4&t=6856)）為前提創作。因此，過去我不斷參考和試圖模仿其他電子報，心想應該如何吸引更多人訂閱或是閱讀。但是經過半年的沈澱，我發現我錯了。
 
 寫電子報的重點不在吸引別人，重點是我，是我從寫作中得到什麼，從輸入→思考→輸出的過程中得到什麼。而以讀者出發的創作對現階段的我並不合適，那我應該怎麼創作呢？我的答案是這部 Tim Ferriss 的影片《[How to Start a Business or Podcast From Scratch](https://www.youtube.com/watch?v=ymiBDged-eQ&t=326s) 》：
 
@@ -41,7 +41,7 @@ Tim Ferriss 表示他的創作是為了自己服務，而他相信這世界上�
 
 hu xx
 
-註 1：[Nicolas Cole](http://www.nicolascole.com/about) 為知名數位寫作計畫 Ship 30 for 30 的創辦人。
+[^1]: [Nicolas Cole](http://www.nicolascole.com/about) 為知名數位寫作計畫 Ship 30 for 30 的創辦人。
 
 ---
 
