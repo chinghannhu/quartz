@@ -21,6 +21,8 @@ Boost 有增進、改善的意思，《原子習慣》書中說：「只要每�
 
 腦中馬上浮現的是 《黑色追緝令》（Pulp Fiction） 中的一個片段 ——男主角因為女主角用毒過量，為了救她，對她心臟打入腎上腺素，祈禱她就此復活。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOoJoTAXDPk?si=qb2FmruZjdp37eyM&amp;start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 打上一劑強心針，最強 Boost 畫面。
 
 在日常生活中，並不是常常是如此緊張刺激、充滿戲劇張力的時刻。但相信每個人都有低落的時候，多少都有提振精神的需求。每個人精神為之一振的方式不同，需要的刺激程度有所差異。我的 Boost 有兩個原則，一是幫助醒腦，二是提振心智，刺激程度偏輕微，所以我想分享的 Boost of the Week 其實很輕鬆，類似以下幾種情境：
@@ -43,7 +45,7 @@ Boost 有增進、改善的意思，《原子習慣》書中說：「只要每�
 
 上述兩種類型的 Boost 意在提升精神、堅定信念、鞏固自己的價值觀；分享「每週強心劑」的重點在於加強我的心智，重塑我的自我認同。
 
-※ 如果你有 Telegram，歡迎訂閱我的頻道 [hu's Braindump](https://t.me/+TCiHm7FtzERkZmE1)，每天即時更新有趣的文章和影片。
+※ 如果你有 Telegram，歡迎訂閱我的頻道 [hu's Braindump](https://t.me/+TCiHm7FtzERkZmE1)，不時更新有趣的文章和影片。
 
 ---
 

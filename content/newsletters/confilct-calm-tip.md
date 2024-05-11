@@ -50,7 +50,7 @@ Morning everyone!
 
 ---
 ![black traffic light under blue sky during daytime](https://chinghannhu.ghost.io/content/images/2023/11/photo-1613190695372-8006b3b40095.jpeg)
-*Photo by [wu yi](https://unsplash.com/@takeshi2?ref=chinghannhu.com) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
+*Photo by [wu yi](https://unsplash.com/@takeshi2?ref=chinghannhu.com) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)*
 
 ## **「停、看、應」**
 
