@@ -1,7 +1,8 @@
 ---
 title: 行善的恐懼
 draft: false
-tags: 
+tags:
+  - kind
 date: 2024/1/29
 description: 這是我第一次想做好事，卻換來這麼大的反彈。說不受傷，那一定是騙人的。
 ---
