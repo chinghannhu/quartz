@@ -45,7 +45,7 @@ Photo by [John Smit](https://unsplash.com/ja/@john_smit?utm_source=ghost&utm_med
 
 小提醒：要小心不要扭傷自己...
 
-![](https://chinghannhu.ghost.io/content/images/2023/02/image.png)
+![[book-lazyyoga.png]]
 
 《懶人瑜珈法》試讀頁 / [博客來](https://www.books.com.tw/products/0010894068)
 
@@ -63,7 +63,7 @@ Photo by [John Smit](https://unsplash.com/ja/@john_smit?utm_source=ghost&utm_med
 
 6- 冥想：用 Apple Watch 的 Mindfulness 專注呼吸一分鐘。
 
-![](https://chinghannhu.ghost.io/content/images/2023/02/IMG_2175.PNG)
+![[apple watch-mindfulness app1.png]]
 
 進階可以參考《[10分鐘入禪休息法](https://r10.to/h6xQrN)》，利用短短 10 分鐘內練習正念冥想的方法。
 
@@ -101,7 +101,7 @@ hu xx
 
 ## 這週遇到的酷東西
 
-iOS 捷徑** - 螢幕轉換灰階模式（Grayscale），記得曾看過一篇文章提到人的眼球偏好彩色的東西，如果把螢幕調成只有黑白兩色，可以降低滑手機的慾望。
+iOS 捷徑 - 螢幕轉換灰階模式（Grayscale），記得曾看過一篇文章提到人的眼球偏好彩色的東西，如果把螢幕調成只有黑白兩色，可以降低滑手機的慾望。
 
 我將上隻手機的快速鍵設定為轉換灰階模式，連續按三下¹，搞定。但受限於現役手機螢幕偏黃，只能把顏色濾鏡（Color Filter）調成偏藍的色調（Color Tilt），所以沒辦法按三下轉成黑白。突然發現 Reddit 上有人分享用縮放（Zoom）² 也能成功轉換，步驟有一點多，但成功，還發現和顏色濾鏡的區別是，縮放的灰階截圖會維持黑白，挺有趣的。
 
@@ -116,9 +116,9 @@ iOS 捷徑** - 螢幕轉換灰階模式（Grayscale），記得曾看過一篇�
 
 ## 本週金句
 
-> 那其實人要沒有成見真的很難，我覺得這是一生學習的道路。但你每放掉一點成見，你會更開心，因為你覺得你的世界更開闊了。  
+> 其實人要沒有成見真的很難，我覺得這是一生學習的道路。但你每放掉一點成見，你會更開心，因為你覺得你的世界更開闊了。  
 
-《[莊子─姿勢、意識與感情](https://www.coursera.org/learn/zhuangzi)》by 蔡璧名
+From《[莊子─姿勢、意識與感情](https://www.coursera.org/learn/zhuangzi)》by 蔡璧名
 
 > 請你想像一下，原本握緊的拳頭逐步鬆開五指，然後變成張開的手掌──它告訴我們如何能放開各種事物與念頭，讓它們飛去。
 
