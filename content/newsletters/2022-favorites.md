@@ -49,7 +49,7 @@ hu xx
 
 1- 書籍：[[booknotes-counselling-for-toads|蛤蟆先生去看心理師]] by 羅伯·狄保德（Robert de Board），因為閱讀器忽然當機，這本書在三天讀完兩遍。如果閱讀對你來說有點吃力，這是一本很輕鬆的讀物，童話般對話口吻非常好入口消化，適合正在考慮嘗試諮商的人。
 
-2- 書籍：[Storyworthy](https://r10.to/h6cy3K), by 馬修·狄克斯（Matthew Dicks），馬修提倡每天花五分鐘記錄生命的故事情節，會為人生產生顯著改變。我很喜歡前言中的一段，馬修認為「說故事」（Storytelling）其實是很無私的行為，想像自己是個登山者，而在走過的路途中，你留下一個提示，提醒將來的登山客要注意什麼，或是說聲加油，再過一個轉角，就會遇到美麗的事物。寫下你的故事，讓其他人知道他們並不孤單。
+2- 書籍：[Storyworthy](https://r10.to/h6cy3K), by 馬修·狄克斯（Matthew Dicks），[[homework-for-life|馬修提倡每天花五分鐘記錄生命的故事情節]]，會為人生產生顯著改變。我很喜歡前言中的一段，馬修認為「說故事」（Storytelling）其實是很無私的行為，想像自己是個登山者，而在走過的路途中，你留下一個提示，提醒將來的登山客要注意什麼，或是說聲加油，再過一個轉角，就會遇到美麗的事物。寫下你的故事，讓其他人知道他們並不孤單。
 
 3- 書籍：[The High 5 Habit](https://r10.to/hU20cb), by 梅爾‧羅賓斯（Mel Robbins），梅爾每天起床看著鏡子，第一件事是批評自己，長得不好看、沒精神。她不想再活在自我詆毀的惡性迴圈，她發現擊掌的動作讓人充滿活力，因而設定起床後第一項任務，衝進廁所和鏡中的自己擊掌，建立 High 5 儀式，又稱擊掌儀式，簡單直覺又能馬上行動，只要花兩分鐘，成為自己的頭號粉絲吧，改變就從每天早晨一個 High 5 開始。
 
@@ -77,7 +77,7 @@ hu xx
 
 2- YouTube：[Taking Book Notes (How to Start)](https://www.youtube.com/watch?v=fES9ZrLXY9s), by Alex Wieckowski + Tiago Forte，Alex 分享他使用紙本書的兩個方法，一是「創造個人目錄」，先翻開目錄頁，找到喜歡的部分，在封面後一頁記下頁數跟期待學習到的新知，一點點打造屬於自己的個人目錄。二是在封底寫下行動建議（Actionable Advice），包含三個學到的新知，和三件將應用這些新知的行動任務。
 
-3- YouTube：[How To Keep A Commonplace Book - 2022 Edition](https://www.youtube.com/watch?v=NPqjgN-pNDw), by Robin Waldun，Robin 認為在網路上摘錄隨機的資訊和知識，對實際吸收內容沒有幫助，只是徒勞，更可能浪費寶貴的時間，因為只要一鍵 Google 查詢，資訊隨手且超快速可得。而David Perell 認為與其搭建 personal google（個人搜尋資料庫），不如建立 [personal monopoly](https://perell.com/note/build-a-personal-monopoly/)（個人獨佔事業）。
+3- YouTube：[How To Keep A Commonplace Book - 2022 Edition](https://www.youtube.com/watch?v=NPqjgN-pNDw), by Robin Waldun，Robin 認為在網路上摘錄隨機的資訊和知識，對實際吸收內容沒有幫助，只是徒勞，更可能浪費寶貴的時間，因為只要一鍵 Google 查詢，資訊隨手且超快速可得。而 David Perell 認為與其搭建 personal google（個人搜尋資料庫），不如建立 [personal monopoly](https://perell.com/note/build-a-personal-monopoly/)（個人獨佔事業）。
 
 ---
 
