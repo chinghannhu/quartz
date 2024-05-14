@@ -62,5 +62,5 @@ hu xx
 
 > 但是我有個缺點，或者說很多缺點。現在我可以承認其中一個：我的好奇心很重。我的好奇心甚至超出怨恨或固執，我從小就是這樣。
 
-《[[booknotes-the-little-post-office-on-the-mountain|高山上的小郵局]]》 by Ángeles Doñate
+From《[[booknotes-the-little-post-office-on-the-mountain|高山上的小郵局]]》 by Ángeles Doñate
 
