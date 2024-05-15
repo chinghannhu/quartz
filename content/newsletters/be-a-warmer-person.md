@@ -1,11 +1,11 @@
 ---
 title: 當個溫暖的人
-draft: true
-tags: 
+draft: false
+tags:
+  - kind
 date: 2022/11/14
+description: Be Kind. 待人溫柔很簡單，卻不容易，必須時刻提醒自己。
 ---
-`2022-11-14`
-
 Morning Everyone!
 
 > **Be Kind.**
@@ -54,13 +54,13 @@ If you cannot be wise, pretend to be someone who is wise, and then just behave l
 
 如果對方是你願意給建議的人，相信彼此擁有某種程度上的信任和忠誠，對你們的關係有一定的了解和認同。你不需要太過緊張，如果溝通間發生誤解，用盡一切去解釋，為自己發聲，不要怕麻煩，盡全力守護珍視的關係。
 
-**可以怎麼做：**
+可以怎麼做：
 
 > 先感謝朋友和自己說這些，你很在乎他的心情和彼此的關係。告訴他並不是已讀不回，而是需要時間思考，請對方給你一些時間消化。
 
 「坐下聽聽」傾聽對方也聽聽自己內心的聲音，朝一個更溫暖的人邁進～
 
-**待人溫柔很簡單，卻不容易，必須時刻提醒自己。**
+**待人溫柔很簡單，卻不容易，必須時刻提醒自己**。
 
 Have a great week!
 
@@ -70,7 +70,7 @@ hu xx
 
 # 這週遇到的酷東西
 
-**YouTube - [**Taking Book Notes (How to Start)**](https://www.youtube.com/watch?v=fES9ZrLXY9s&ref=chinghannhu.com)** by Tiago Forte
+**YouTube - [Taking Book Notes (How to Start)](https://www.youtube.com/watch?v=fES9ZrLXY9s&ref=chinghannhu.com)** by Tiago Forte
 
 [大師輕鬆讀 884 期](https://www.master60.com.tw/index-bookmeta.php?v=884&ref=chinghannhu.com)中提及《Digital 2022: TAIWAN》的報告顯示，台灣網路平均每天使用時數為八小時，高出全球平均一個多小時。廣大龐雜的資訊究竟是過眼雲煙，還是能確實消化，產出其他有價值的內容？
 
@@ -80,7 +80,7 @@ Alex 以紙本書做為示範，當他看一本新書，第一個步驟是先翻
 
 迫不及待嘗試畫書哈哈，說真的，蠻令人上癮。
 
-![](https://embed.filekitcdn.com/e/hrk33ge3gv2yswBhvxUHRL/rLHw2g7wxWyrjQZ1gkgLzi/email)
+![[book-しないことリスト.jpeg]]
 
 // 《[不辦清單](https://www.taaze.tw/products/11100797371.html?ref=chinghannhu.com)》畫線和筆記
 
