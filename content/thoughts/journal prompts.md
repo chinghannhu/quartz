@@ -30,15 +30,9 @@ source: [The Might-Do List – Make Time](https://maketime.blog/article/the-migh
 1. What are your top 3-5 goals for the year?  How're they going? (3)
     
 
-1. Health -
-    
-2. Relationship -
-    
-3. Work -
-    
 
-  
-  
+
+
 
 2. What were the good and great things that happened last week? Review the previous week’s accomplishments // what were the good or great things that happened last week (5)
     
