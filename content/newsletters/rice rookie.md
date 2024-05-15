@@ -41,6 +41,8 @@ Morning Everyone!
 
 hu xx
 
+---
+
 ## 本週金句 Quote of the Week
 
 人生中只要是值得的事，都需要時間醞釀，也需要用心付出努力。
