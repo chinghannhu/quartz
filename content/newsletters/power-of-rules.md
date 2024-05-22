@@ -27,7 +27,7 @@ Morning Everyone!
 
 正如名言：
 
-If you fail to plan, you are planning to fail. 如果沒有計畫，等同於在計劃失敗。
+> If you fail to plan, you are planning to fail. 如果沒有計畫，等同於在計劃失敗。
 
 當然不可能完全照著安排的時間走，生活中充滿了各種變化。
 
@@ -35,7 +35,7 @@ If you fail to plan, you are planning to fail. 如果沒有計畫，等同於在
 
 我很喜歡的一句話是：
 
-Sometimes words can get in the way. Guidance is not the only way to approach things. It only helps you to clarify. 有時，言語會妨礙事情的發展。遵循規則並不是達成事情的唯一方式，規則只是協助自己釐清問題。
+> Sometimes words can get in the way. Guidance is not the only way to approach things. It only helps you to clarify. 有時，言語會妨礙事情的發展。遵循規則並不是達成事情的唯一方式，規則只是協助自己釐清問題。
 
 ---
 
