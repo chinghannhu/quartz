@@ -27,8 +27,7 @@ date: 2024/01/01
 - [[booknotes-himitsu|秘密]] by 東野圭吾
 
 ---
-### Re-read / Revisit
-
+## Re-read / Revisit
 - [[booknotes-anything-you-want|Anything You Want]] by Derek Sivers
 - [[booknotes-atomic-habits|原子習慣]] by James Clear
 - [[booknotes-designing-your-life|做自己的生命設計師]] by Bill Burnett, Dave Evans
