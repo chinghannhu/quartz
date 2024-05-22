@@ -9,6 +9,8 @@ tags: []
 
 這個頁面目前的做法是每個月最少更新一次，在每月 14 日。
 
+Updated on 2024-05-22, next update on 06-14.
+
 ---
 
 > ****我在做我最想做的事情嗎？Am I working on what I most want to work on?****
@@ -44,20 +46,20 @@ Ali Abdaal 在 [Colin and Samir](https://www.youtube.com/watch?v=NcYt79DjNwY) �
 
 ## Projects
 
-- 重新調整部落格 - [I wanted it existed.](https://twitter.com/Nik_Atanackovic/status/1685319990491115520?s=20)
+- 重新調整部落格 - [I wanted it existed.](https://twitter.com/Nik_Atanackovic/status/1685319990491115520?s=20)（[[roadmap|部落格更新進度]]）
 
 ---
 
 ## Reviewing
 
 1. [[my-ideal-ordinary-week|我的理想平凡一週]]
-2. 每週回顧的力量
-3. 每週回顧的一鍵指南
+2. [[power-of-weekly-review|每週回顧的力量]]
+3. [[one-touch-guide-weekly-review|每週回顧的一鍵指南]]
 ---
 
 ## Learning
 
-****學習基礎日文****
+#### 學習基礎日文
 
 被會講三種語言的 Masato 鼓舞，決定試試[可理解輸入（Comprehensible Input）](https://www.youtube.com/watch?v=59QlHqVOCKw) 的語言學習方法，現在開始大量看他推薦的日本影片。
 
@@ -67,7 +69,7 @@ Ali Abdaal 在 [Colin and Samir](https://www.youtube.com/watch?v=NcYt79DjNwY) �
 
 我期許進入日本世界。
 
-
+updated: 2024 年開始在繁田塾上課哩 → [[learning-japanese|日文學習旅程]]
 
 ---
 
@@ -83,8 +85,8 @@ To avoid the traps of procrastination and putting money first, I've placed these
 Here are several articles to knock on my own head at the right time:
 
 1. [[todo|The Top of My Todo List]]
-2. Why You Shouldn't Be Afraid of Writing
-3. Why I Feel I'm Not Good at Writing
+2. Why You Shouldn't Be Afraid of Writing <sub>（中文） </sub>
+3. Why I Feel I'm Not Good at Writing <sub>（中文） </sub>
 
 ---
 # Why Now Page?
@@ -101,20 +103,18 @@ Troubled by this situation for a while, I hope to firmly state what I am doing n
 
 This Now Page is updated at least once a month, on the 14th of each month.
 
-Updated on 2024-05-01, next update on 05-14.
-
 ---
 ## # Projects
 
-- Revamping the blog - [I wanted it existed.](https://twitter.com/Nik_Atanackovic/status/1685319990491115520?s=20&ref=chinghannhu.com)
+- Revamping the blog - [I wanted it existed.](https://twitter.com/Nik_Atanackovic/status/1685319990491115520?s=20&ref=chinghannhu.com) → [[roadmap|Blog roadmap]]
 
 ---
 
 ## # Reviewing
 
-1. [[my-ideal-ordinary-week|My Ideal Ordinary Week 我的理想平凡一週]] <sub>（中文） </sub>
-2. The Power of the Weekly Review
-3. One-Touch Guide: Weekly Review
+1. My Ideal Ordinary Week <sub>（中文） </sub>
+2. The Power of the Weekly Review <sub>（中文） </sub>
+3. One-Touch Guide: Weekly Review <sub>（中文） </sub>
 
 ---
 
