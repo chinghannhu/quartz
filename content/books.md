@@ -7,7 +7,7 @@ date: 2024/01/01
  [Bookvernture Log Google Sheet](https://docs.google.com/spreadsheets/d/1Fwoh9Te6kPm3ZmqDHwonp5DGuWG0r3dg5vJ3BSl9ssY/edit#gid=0)
 
 ---
-## Reading Notes
+## [Reading Notes](/tags/books)
 #### 2024
 - [[booknotes-die-with-zero|別把你的錢留到死]] by Bill Perkins
 #### 2023
