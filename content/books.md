@@ -4,7 +4,7 @@ date: 2024/01/01
 ---
 ## Bookventure Log
 
-[Bookvernture Log Google Sheet](https://docs.google.com/spreadsheets/d/1Fwoh9Te6kPm3ZmqDHwonp5DGuWG0r3dg5vJ3BSl9ssY/edit#gid=0)
+ [Bookvernture Log Google Sheet](https://docs.google.com/spreadsheets/d/1Fwoh9Te6kPm3ZmqDHwonp5DGuWG0r3dg5vJ3BSl9ssY/edit#gid=0)
 
 ---
 ## Reading Notes
@@ -27,7 +27,7 @@ date: 2024/01/01
 - [[booknotes-himitsu|秘密]] by 東野圭吾
 
 ---
-#### Re-read / Revisit
+### Re-read / Revisit
 
 - [[booknotes-anything-you-want|Anything You Want]] by Derek Sivers
 - [[booknotes-atomic-habits|原子習慣]] by James Clear
