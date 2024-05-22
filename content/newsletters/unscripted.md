@@ -51,7 +51,7 @@ Morning Everyone!
 
 試圖感受自己的沒安全感，感受自己的無助，感受自己的無力感。
 
-![](https://img.youtube.com/vi/iCvmsMzlF7o/0.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iCvmsMzlF7o?si=2VgLhYV7I1CkjG0W&amp;start=948" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 就如 Brené Brown 在 Ted Talk - The power of vulnerability 說的，如果關掉負面情緒，就等同關掉所有情緒。
 
