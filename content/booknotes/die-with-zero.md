@@ -19,4 +19,4 @@ The key mindset of living is to create memories, to use money wisely during your
 
 
 #### # Personal Trivia
-Inspired by [[booknotes-tribe-of-mentors|Tim Ferriss's book "Tribe of Mentors,"]] I've started giving away copies of "Die with Zero" to my friends, starting January 17, 2024.
+Inspired by [[tribe-of-mentors|Tim Ferriss's book "Tribe of Mentors,"]] I've started giving away copies of "Die with Zero" to my friends, starting January 17, 2024.

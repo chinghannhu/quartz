@@ -116,7 +116,7 @@ YouTube - Logseq 任務管理的終極指南（[The ULTIMATE Guide to Task Manag
 
 ---
 
-書籍 - 《 [[booknotes-the-lazy-genius-way|丟掉你的那些無關緊要]] 》, by 康卓拉·阿達奇。
+書籍 - 《 [[the-lazy-genius-way|丟掉你的那些無關緊要]] 》, by 康卓拉·阿達奇。
 
 我喜歡書中提到每個人都該順從「人生季節」，什麼是人生季節呢？
 

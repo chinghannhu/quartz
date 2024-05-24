@@ -12,10 +12,10 @@ date:
 成為知識的創作者，不要成為知識的搬運者。
 
 ### The ultimate goal for creating is to have fun
-![[booknotes-anything-you-want#^e3f9bb]]
+![[anything-you-want#^e3f9bb]]
 
 ### Be an infinite player
-![[booknotes-finite-and-infinite-games#^507375]]
+![[finite-and-infinite-games#^507375]]
 
 
 ---

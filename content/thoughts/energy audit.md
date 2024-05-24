@@ -12,11 +12,11 @@ source: [How to Figure Out What You Really Want in Life - YouTube](https://www.y
 **Actionable Steps:** Look back on your calendar or the activities you've done in the last two weeks and identify which ones gave you energy and which ones drained your energy.
 
 
-![[booknotes-anything-you-want#^01aee7]]
+![[anything-you-want#^01aee7]]
 
 ---
 ### wondering
 
 energy vs joy
 
-Good Time Journal Activity Log from [[booknotes-designing-your-life|Designing Your Life]]
+Good Time Journal Activity Log from [[designing-your-life|Designing Your Life]]

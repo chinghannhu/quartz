@@ -23,6 +23,6 @@ description: 晚上臨時被朋友邀去玩蛻變遊戲，其實蠻有趣的。�
 
 比起玩別的遊戲，我更認真的投入地玩蛻變遊戲，感謝朋友的邀請。
 
-我想，或許是受到 [[booknotes-finite-and-infinite-games|Finite and Infinite Game]] 書中理念的影響吧。
+我想，或許是受到 [[finite-and-infinite-games|Finite and Infinite Game]] 書中理念的影響吧。
 
 > 「遊戲的目的為了不是贏而是享受其中。」

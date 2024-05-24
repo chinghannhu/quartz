@@ -41,4 +41,4 @@ hu xx
 
 > 懷抱希望踏上旅程，要比抵達目的地重要。-日本諺語
 
-From《[[booknotes-the-little-post-office-on-the-mountain|高山上的小郵局]]》 by Ángeles Doñate
+From《[[the-little-post-office-on-the-mountain|高山上的小郵局]]》 by Ángeles Doñate

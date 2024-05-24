@@ -7,7 +7,7 @@ date: 2024/3/1
 ---
 <iframe width="100%"  src="https://www.youtube.com/embed/bfLHTLQZ5nc?si=p0nE91MJdHIkMpCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The concept I believe originates from the book [[booknotes-atomic-habits|Atomic Habits]]. If you want to build a habit, you may practice it at least every other day. Don't break the rule. You can have one day of rest, but not two days of rest in a row.
+The concept I believe originates from the book [[atomic-habits|Atomic Habits]]. If you want to build a habit, you may practice it at least every other day. Don't break the rule. You can have one day of rest, but not two days of rest in a row.
 
 ---
 ### Actionable Steps
