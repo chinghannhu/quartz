@@ -9,7 +9,7 @@ date: 2024/01/01
 ---
 ## [Reading Notes](/tags/books)
 #### 2024
-- [[content/booknotes/die-with-zero|別把你的錢留到死]] by Bill Perkins
+- [[die-with-zero|別把你的錢留到死]] by Bill Perkins
 #### 2023
 - [[uncanny-convenience-store|不便利的便利店]] by 金浩然
 - [[pumpkin-plan|南瓜計畫]] by Mike Michalowicz
