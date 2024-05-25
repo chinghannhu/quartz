@@ -8,8 +8,7 @@ date: 2022/11/25
 description: 很喜歡 Glasp 的標語：「Create a library of your learning」（打造你的學習圖書館），推薦給每個愛吸收新知、網路文章重度閱讀者，YouTube 中毒者。
 ---
 ![](https://glasp.co/_next/image?url=%2Fimages%2Ficons%2Ffeature_highlight.webp&w=640&q=75)
-
-[Glasp: PDF & Web Highlighter for Researchers & Learners](https://glasp.co/)
+*source:[Glasp: PDF & Web Highlighter for Researchers & Learners](https://glasp.co/)*
 
 ## Glasp 有 7 個強大的功能
 
