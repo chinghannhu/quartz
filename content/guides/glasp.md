@@ -28,9 +28,9 @@ description: 很喜歡 Glasp 的標語：「Create a library of your learning」
 
 取經自吳秉儒 P.J. Wu「[我的閱讀、畫線與註記工作流](https://notes.pinchlime.com/notes/workflows/my-highlighting-and-annotating-workflow/)」一文，的四種顏色分別代表：
 
-- 黃色（fleeting thoughts 有感的內容）
-- 綠色（actionable takeaways 下一步行動的方法）
-- 藍色（questions 有疑問的內容）
-- 紅色（disagreements 不贊同的內容）
+1. 黃色（fleeting thoughts 有感的內容）
+2. 綠色（actionable takeaways 下一步行動的方法）
+3. 藍色（questions 有疑問的內容）
+4. 紅色（disagreements 不贊同的內容）
 
 很喜歡 Glasp 的標語：「Create a library of your learning」（打造你的學習圖書館），推薦給每個愛吸收新知、網路文章重度閱讀者，YouTube 中毒者。
