@@ -83,8 +83,10 @@ description: 是不是總覺得搜尋的結果差強人意，好像要多滑幾�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXY-2fIAksY?si=B-QbBqq4c3hjnq0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+## 標點符號增強搜尋精確度
 
 ![[hu-google-search01.png]]
+
 參考自 [**Chris Hladczuk**](https://twitter.com/chrishlad) 的[推特](https://twitter.com/chrishlad/status/1425820831209381888/photo/1)
 
 1. 精準搜尋 (“引號”)：在搜尋列上輸入關鍵詞，即可與引號內一字不差的精準搜尋。
