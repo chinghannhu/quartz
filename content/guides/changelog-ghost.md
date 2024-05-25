@@ -34,7 +34,7 @@ a[href^="https://book.tpml.edu.tw/"], a[href^="https://book.tpml.edu.tw/"] {
 
 - [ HTML/CSS ] 超連結結尾加入箭頭符號
 
-```
+```css
 a::after {
   content: " ↗";
   font-size: 0.8em;
@@ -66,7 +66,7 @@ a::after {
 
 - [ HTML/CSS ] 更動導覽列英文大小寫
 
-```
+```css
 nav.gh-head-menu {
   text-transform:capitalize;
 }
@@ -84,13 +84,13 @@ nav.gh-head-menu {
 
 - [ HTML/CSS ] 圖片新增陰影
 
-```
+```css
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 ```
 
 - [ HTML/CSS ] 更改反白顏色
 
-```
+```css
 ::selection {
   background: #fac7ae;
 }
@@ -121,13 +121,13 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 
 - [ HTML/CSS ] 超連結的底線向下移動 2px
 
-```
+```css
 text-underline-offset: 2px;
 ```
 
 - 置入 kobo Logo 在樂分紅連結最後
 
-```
+```css
 /* Rakuten icon for affiliate geni.us links */
 
 a[href^="https://r10.to/"], a[href^="https://r10.to/"] {
@@ -144,7 +144,7 @@ padding-right: 18px;
 
 - [ HTML/CSS ] 改變滑鼠游標的形狀 / 關掉圖片 Lightbox 效果
 
-```
+```css
 /* disable hover */
 
 body#collection-5ed02ebed97d7907c6917792 .slides .slide {
@@ -156,7 +156,7 @@ body#collection-5ed02ebed97d7907c6917792 .slides .slide {
 }
 ```
 
-```
+```css
 /* disable lightbox */
 .kg-gallery-image, .kg-image[width][height] {
     cursor: default;
@@ -232,7 +232,7 @@ body#collection-5ed02ebed97d7907c6917792 .slides .slide {
 
 - [Convertkit](https://app.convertkit.com/users/login) 設定電子報、[YAML] 隱藏 Tag 文章
 
-```
+```yaml
 collections:
 /:
 permalink: /{slug}/
