@@ -1,5 +1,5 @@
 ---
-title: Chrome 擴充功能 Glasp Web Highlighter
+title: "[Chrome 擴充功能] Glasp Web Highlighter"
 draft: false
 tags:
   - technical

@@ -1,5 +1,5 @@
 ---
-title: Cheatsheet Quartz
+title: "[Cheatsheet] Quartz"
 draft: false
 tags:
   - seeds
