@@ -39,13 +39,13 @@ hu xx
 
 ## 這週遇到的酷東西
 
-**#子報** - [What do you owe your younger self?](https://www.elizabethfilips.com/post/40-what-do-you-owe-your-younger-self) by Elizabeth Filips，光是看到標題「你欠年輕的自己什麼？」，頭就打了一棒，十年前的自己是怎麼幻想十年後的生活？現在完成十年前的哪些目標了呢？
+**電子報** - [What do you owe your younger self?](https://www.elizabethfilips.com/post/40-what-do-you-owe-your-younger-self) by Elizabeth Filips，光是看到標題「你欠年輕的自己什麼？」，頭就打了一棒，十年前的自己是怎麼幻想十年後的生活？現在完成十年前的哪些目標了呢？
 
 會感到有點壓力，對吧？對，但不需要耽溺於過去的成就或失誤，藉著這個疑問幫助自己聚焦，重新定位到想前進的方向，GO！
 
 **書籍 -** 《[從沒想法到有想法的精準表達寫作術](https://r10.to/hwSnS8)》by 山田紫霓。書中反問什麼是意見？意見是由一問一答組成，當發表自己思考後的意見，透過反推思索源頭的問題，就能幫助表達更加謹慎和周全。
 
-**#音樂** - 《創造安娜》影集原聲帶
+**音樂** - 《創造安娜》影集原聲帶
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7l9O0qo58xh5Cu6HAd6e3Z?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
