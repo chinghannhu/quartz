@@ -13,14 +13,14 @@ description: 在 2021 年的秋天，我的 Ghost(Pro) 架站旅程正式啟航�
 
 - kobo、讀冊、台北圖書館超連結加入 icon，移除超連結結尾箭頭符號
 
-```
+```css
 a[href^="https://book.tpml.edu.tw/"], a[href^="https://book.tpml.edu.tw/"] {
   background: transparent url(https://www.chinghannhu.com/content/images/2023/08/tplib.svg) no-repeat center right;
   padding-right: 26px;
 }
 ```
 
-```
+```css
   a[href^="https://book.tpml.edu.tw"]::after {
   display: none;
   }
