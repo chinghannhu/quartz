@@ -12,7 +12,7 @@ description:
 
 - [Typescript] Remove all the dates
 
-``` Typescript
+``` css
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -24,9 +24,9 @@ export const defaultContentPageLayout: PageLayout = {
 
 ### modified
 
-- [ Typescript] Color scheme
+- [Typescript] Color scheme
 
-``` Typescript
+``` css
       colors: {
         lightMode: {
           light: "#fffcf3",
