@@ -67,12 +67,12 @@ hu xx
 
 ## 這週遇到的酷東西
 
-**#電子報** - [ConvertKit Crash Course](https://blairwadman.com/convertkit/crashcourse/) by Blair Wadman，從 Revue 改到 ConvertKit 之後，就四處找教學文。Blair Wadman 是英國的 ConvertKit 專家，協助顧客經營電子報服務，只要訂閱他的電子報，就寄給你七封一系列的 ConvertKit 教學。
+**##電子報** - [ConvertKit Crash Course](https://blairwadman.com/convertkit/crashcourse/) by Blair Wadman，從 Revue 改到 ConvertKit 之後，就四處找教學文。Blair Wadman 是英國的 ConvertKit 專家，協助顧客經營電子報服務，只要訂閱他的電子報，就寄給你七封一系列的 ConvertKit 教學。
 
-**#書籍** - 《[歡迎光臨夢境百貨](https://r10.to/hafdxw)》by 李美藝（이미예），有點不喜歡作者被形容成韓國的 J.K. Rowling，我認為他就是韓國的李美藝。很喜歡書中提到預知夢的一段：
+**##書籍** - 《[歡迎光臨夢境百貨](https://r10.to/hafdxw)》by 李美藝（이미예），有點不喜歡作者被形容成韓國的 J.K. Rowling，我認為他就是韓國的李美藝。很喜歡書中提到預知夢的一段：
 
 > ......製作的預知夢啊，對想看到未來的客人來說，是會令他們失望的商品，但是對於不抱任何期待的客人來說，那反而是意想不到的小禮物。
 
-**#日劇** - [坡道上的家](https://chinghannhu.ghost.io/filmnotes-saka-no-totyuu-no-ie/)，揭露日本父權社會對於母親角色的巨大期望，為維持「普通」的家庭生活，各種日常場景和言語，一點點侵蝕這些婦女最後的一絲理性。
+**##日劇** - [坡道上的家](https://chinghannhu.ghost.io/filmnotes-saka-no-totyuu-no-ie/)，揭露日本父權社會對於母親角色的巨大期望，為維持「普通」的家庭生活，各種日常場景和言語，一點點侵蝕這些婦女最後的一絲理性。
 
 [^1]: 網飛原則來自於 [David Perell《50 Days of Writing》](https://ageofleverage.com/50-days-of-writing?ref=chinghannhu.ghost.io)Lesson #5: Follow the Netflix Principle
