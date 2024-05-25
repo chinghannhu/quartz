@@ -2,7 +2,6 @@
 title: "[Cheatsheet] Quartz"
 draft: false
 tags:
-  - seeds
   - technical
 date: 2024/03/01
 ---

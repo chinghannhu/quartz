@@ -2,7 +2,6 @@
 title: Ghost 架站日誌
 draft: false
 tags:
-  - seeds
   - technical
 date: 2021/11/22
 description: 在 2021 年的秋天，我的 Ghost(Pro) 架站旅程正式啟航。
