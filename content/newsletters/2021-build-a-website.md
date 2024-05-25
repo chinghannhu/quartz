@@ -25,7 +25,6 @@ Morning Everyone!
 
 架站前需要做什麼準備呢？下面是我推薦的三個準備方向 (1) 網站參考、(2) 平台選擇和 (3) 網域選擇：
 ![[unsplash-photo-by-rishi-lego.png]]
-
 *Photo by [rishi](https://unsplash.com/@beingabstrac?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)*
 
 ### 1. 網站參考

@@ -27,7 +27,7 @@ hu xx
 
 ## 這週遇到的酷東西
 
-**網路文章 - [Raycast – 讓你更專注的高效率啟動器](https://pinchlime.com/2022/04/02/raycast-introduction/) by P.J. Wu 吳秉儒
+**#網路文章** - [Raycast – 讓你更專注的高效率啟動器](https://pinchlime.com/2022/04/02/raycast-introduction/) by P.J. Wu 吳秉儒
 
 原本 Alfred 用得好好的，也沒有特別想換 Raycast，但記得[朱騏](https://www.facebook.com/permalink.php?story_fbid=5332807213419742&id=100000715490868)提到：
 
@@ -37,9 +37,11 @@ hu xx
 
 **PS.** 忽然發現[星箭廣播最新一集](https://open.spotify.com/episode/7eYxr1OIevZaU9ZMsxtxqr?si=84c1574f1ae44892&nd=1)剛好介紹～好幸運～
 
-**音樂 -** [lofi.co](https://lofi.co/)​
+**#音樂 -** [lofi.co](https://lofi.co/)​
 
-擁有美麗咖啡廳插畫背景的 Lo-fi Music 網站，如果你不習慣打開網頁，可以直接聽[他們的 Spotify 播放清單](https://open.spotify.com/playlist/0iepisLXvVe5RxB3owHjlj?si=7f136c06b137462a)。
+擁有美麗咖啡廳插畫背景的 Lo-fi Music 網站，如果你不習慣打開網頁，可以直接聽他們的 Spotify 播放清單。
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0iepisLXvVe5RxB3owHjlj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 

@@ -22,12 +22,10 @@ Morning Everyone!
 ![Toys at Work series](https://images.unsplash.com/photo-1586776977607-310e9c725c37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDUxfHxsZWdvfGVufDB8fHx8MTY2NzIyODEyMg&ixlib=rb-4.0.3&q=80&w=2000)
 
 *Photo by [Ken Suarez](https://unsplash.com/@kensuarez?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)*
-
+---
 ## 2022
 
 看完唐綺陽分享的 [2022 年前半年運勢](https://www.facebook.com/100044641110094/posts/462093521955348/)和第一週星座運勢週報之後，彷彿吃了一顆定心丸，跟個人規劃的時程不謀而合，真是離奇的神準。看來射手座到 2023 年都很不輕鬆啊⋯⋯既然會很累，就一定要更充實！希望前半年的規劃如期和順利進行！
-
-下週我會分享 2021 年度完整回顧以及 2022 年的新計畫，歡迎和我分享你的年度規劃。最後，祝大家新的一年，新年快樂！
 
 Have a great week! 我們下週見！
 
@@ -37,7 +35,7 @@ hu xx
 
 ## 這週遇到的酷東西
 
-**影集**- 《[婚姻場景(Scenes from a Marriage)](https://www.catchplay.com/tw/video/25f2fa7a-4b89-4f79-b632-503b70779717) 》 **✕ 防雷線 ✕** 對《婚姻場景》劇中最深刻的是開頭和結尾，一開始，兩位主角坐在自家的沙發，和諮商師談論著彼此的感情，空氣中瀰漫著女主角明顯的心不在焉，暗自不認同男主角回答的口吻和答案，左顧右盼的希望諮商趕快結束。反觀，男主角的表情透漏對於這段關係的滿意，喜歡彼此的互動，覺得自己很投入付出。為什麼兩個人會差那麼多呢？讓我不斷思考一個問題。
+**#影集**- 《[婚姻場景(Scenes from a Marriage)](https://www.catchplay.com/tw/video/25f2fa7a-4b89-4f79-b632-503b70779717) 》 **✕ 防雷線 ✕** 對《婚姻場景》劇中最深刻的是開頭和結尾，一開始，兩位主角坐在自家的沙發，和諮商師談論著彼此的感情，空氣中瀰漫著女主角明顯的心不在焉，暗自不認同男主角回答的口吻和答案，左顧右盼的希望諮商趕快結束。反觀，男主角的表情透漏對於這段關係的滿意，喜歡彼此的互動，覺得自己很投入付出。為什麼兩個人會差那麼多呢？讓我不斷思考一個問題。
 
 **在一段感情中失衡和錯頻的時間點和事件是什麼？**
 

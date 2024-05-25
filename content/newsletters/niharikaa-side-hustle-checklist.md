@@ -19,11 +19,11 @@ Morning Everyone!
 
 #### 什麼是 Side Hustle？
 
-在 [HiNative](https://hinative.com/zh-TW/questions/3258564) 上，Side Hustle被解釋為「閒暇時間所做的第二職業」（A second job that you do in your spare time.）也就是除了正職工作或學業，投入長時間的副業或是斜槓計畫，例如我其中一項 Side Hustle 是寫電子報。
+在 [HiNative](https://hinative.com/zh-TW/questions/3258564) 上，Side Hustle 被解釋為「閒暇時間所做的第二職業」（A second job that you do in your spare time.）也就是除了正職工作或學業，投入長時間的副業或是斜槓計畫，例如我其中一項 Side Hustle 是寫電子報。
 
 ---
 
-#### 為什麼要經營 Side Hustle？
+## 為什麼要經營 Side Hustle？
 
 日復一日的上班、去學校，坐在相同的位子，參與大同小異的會議和討論，做著類似的工作內容、總是想著人生有沒有別的可能性？
 
@@ -60,9 +60,9 @@ hu xx
 
 ## 這週遇到的酷東西
 
-**電子書** -[How to Upgrade Your Life With Side Hustles and Make Money Online](https://niharikasodhi.com/free-ebook/) by Niharikaa Kaur Sodhi。
+**#電子書** -[How to Upgrade Your Life With Side Hustles and Make Money Online](https://niharikasodhi.com/free-ebook/) by Niharikaa Kaur Sodhi。
 
-**斜槓人生檢查清單** - [The Side Hustler Checklist - Notion](https://niharikasodhi.gumroad.com/l/sidehustlerchecklist) by Niharikaa Kaur Sodhi。
+**#斜槓人生檢查清單** - [The Side Hustler Checklist - Notion](https://niharikasodhi.gumroad.com/l/sidehustlerchecklist) by Niharikaa Kaur Sodhi。
 
 ---
 
