@@ -34,3 +34,5 @@ description: 很喜歡 Glasp 的標語：「Create a library of your learning」
 4. 紅色（disagreements 不贊同的內容）
 
 很喜歡 Glasp 的標語：「Create a library of your learning」（打造你的學習圖書館），推薦給每個愛吸收新知、網路文章重度閱讀者，YouTube 中毒者。
+
+→ 我的 [Glasp 頁面](https://glasp.co/hann)。
