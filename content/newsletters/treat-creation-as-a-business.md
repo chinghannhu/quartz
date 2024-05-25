@@ -50,15 +50,15 @@ hu xx
 
 ## 這週遇到的酷東西
 
-**#YouTube -** [How to Grow on YouTube with Ali](https://vimeo.com/682204644/20ff483bbc) by Ali's Team
+**YouTube -** [How to Grow on YouTube with Ali](https://vimeo.com/682204644/20ff483bbc) by Ali's Team
 
 已經有 YouTube 頻道，卻不知道怎麼產出更多內容，或是累積更多粉絲嗎？你不能錯過這部影片。
 
-**#Youtube -** [How To Start a YouTube Channel - Beginner’s Guide to YouTube](https://www.youtube.com/watch?v=XpopyNZKYKw) by Ali's Team
+**Youtube -** [How To Start a YouTube Channel - Beginner’s Guide to YouTube](https://www.youtube.com/watch?v=XpopyNZKYKw) by Ali's Team
 
 在思考該不該開始 YouTube 頻道？這部影片包含擁有百萬訂閱粉絲的 Ali Abdaal 做 YouTube 經驗談，除了分享創作的核心思維，也和不同創作者討論各種新手或老手遇到的問題。
 
-**#教學 -** [朱騏](https://pmstoolbox.com/)的 [Obsidian 學習包](https://docs.google.com/forms/d/e/1FAIpQLSd1PS1dyx8kc6ekWk7O7n2kvQu6HYM7_gn7tJVIxDsmhrU34w/viewform)上線！我已經手刀買了！等上完課程，再來好好設定 Obsidian。相信這課程超適合 Obsidian 小白，有興趣可以參考看看。
+**教學 -** [朱騏](https://pmstoolbox.com/)的 [Obsidian 學習包](https://docs.google.com/forms/d/e/1FAIpQLSd1PS1dyx8kc6ekWk7O7n2kvQu6HYM7_gn7tJVIxDsmhrU34w/viewform)上線！我已經手刀買了！等上完課程，再來好好設定 Obsidian。相信這課程超適合 Obsidian 小白，有興趣可以參考看看。
 
 ---
 

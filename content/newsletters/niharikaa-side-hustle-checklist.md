@@ -60,9 +60,9 @@ hu xx
 
 ## 這週遇到的酷東西
 
-**##電子書** -[How to Upgrade Your Life With Side Hustles and Make Money Online](https://niharikasodhi.com/free-ebook/) by Niharikaa Kaur Sodhi。
+**電子書** -[How to Upgrade Your Life With Side Hustles and Make Money Online](https://niharikasodhi.com/free-ebook/) by Niharikaa Kaur Sodhi。
 
-**##斜槓人生檢查清單** - [The Side Hustler Checklist - Notion](https://niharikasodhi.gumroad.com/l/sidehustlerchecklist) by Niharikaa Kaur Sodhi。
+**斜槓人生檢查清單** - [The Side Hustler Checklist - Notion](https://niharikasodhi.gumroad.com/l/sidehustlerchecklist) by Niharikaa Kaur Sodhi。
 
 ---
 

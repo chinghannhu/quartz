@@ -57,13 +57,13 @@ hu xx
 
 ## 這週遇到的酷東西
 
-**#YouTube** -[How to Study: MAKE IT STICK](https://www.youtube.com/watch?v=MfylloWuuZU) ：在第一次看《[超牢記憶法](https://r10.to/hM4DzF)》這本書後找到的書評影片，簡單扼要說明提升記憶力的三大方法，用簡單且實用的例子（學習西班牙文）等方式說明，很快就能理解書中的重要概念。
+**YouTube** -[How to Study: MAKE IT STICK](https://www.youtube.com/watch?v=MfylloWuuZU) ：在第一次看《[超牢記憶法](https://r10.to/hM4DzF)》這本書後找到的書評影片，簡單扼要說明提升記憶力的三大方法，用簡單且實用的例子（學習西班牙文）等方式說明，很快就能理解書中的重要概念。
 
-**#網路文章** -[Thinking Slow With HQ&A: Take Better Notes When Reading Non-Fiction (Pt 1)](https://words.jamoe.org/highlight-question-and-answer/) ：這是第一篇由 Jamie Miles 提出 HQ&A 筆記法的專文。
+**網路文章** -[Thinking Slow With HQ&A: Take Better Notes When Reading Non-Fiction (Pt 1)](https://words.jamoe.org/highlight-question-and-answer/) ：這是第一篇由 Jamie Miles 提出 HQ&A 筆記法的專文。
 
-**#書籍** - [持續的技術](https://r10.to/hkhEty)：腦部復健專家菅原洋平擁有豐富的臨床經驗，透過對於大腦運作方式的了解，分享如何引導自己的大腦達成想持續的目標。
+**書籍** - [持續的技術](https://r10.to/hkhEty)：腦部復健專家菅原洋平擁有豐富的臨床經驗，透過對於大腦運作方式的了解，分享如何引導自己的大腦達成想持續的目標。
 
-**#音樂** - [emo girl](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ?si=1fdde05a418946be)：emo取自emotion的字首，譯作情緒搖滾，意外喜歡這首歌的整體旋律，歌詞稍嫌強烈，一起聽聽看。
+**音樂** - [emo girl](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ?si=1fdde05a418946be)：emo取自emotion的字首，譯作情緒搖滾，意外喜歡這首歌的整體旋律，歌詞稍嫌強烈，一起聽聽看。
 
 ---
 
