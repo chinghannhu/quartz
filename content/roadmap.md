@@ -57,8 +57,8 @@ date:
 	10. [Eyewithouts](https://eyewithouts.com/)
 5. **ideal update frequency**
 	1. daily update - homework for life
-	2. weekly update - newsletter
-	3. monthly update - book notes / mini presentation / project update
+	2. weekly update - newsletters
+	3. monthly update - book notes / project update
 
 ---
 
@@ -78,6 +78,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 ```
 
+---
 #### [1.0.1] - 2024-05-02
 
 ##### modified
@@ -108,6 +109,7 @@ export const defaultContentPageLayout: PageLayout = {
         },
 ```
 
+---
 #### [1.0.0] - 2024-05-01
 
 ##### checked
