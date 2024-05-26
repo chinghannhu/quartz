@@ -8,7 +8,7 @@ enableToc: true
 date: 2023/02/21
 description:
 ---
-最近越來越喜歡研究靜態網站（Static Site），加上使用 [Logseq](https://chinghannhu.ghost.io/tech/#%E9%87%8D%E5%BA%A6%E4%BD%BF%E7%94%A8%E7%B2%BE%E9%81%B8) 好一陣子，純粹文字的頁面真的很吸引人，剛好看到有人推薦 Derek Sivers 的一篇文章《[Write plain text files](https://sive.rs/plaintext)》（純文字寫作）。我喜歡 Sivers 推崇純文字寫作的力量，像是不被任何服務綁架，創造產生心流的專注環境等等。
+最近越來越喜歡研究靜態網站（Static Site），加上使用 Markdown 紀錄和寫作好一陣子，純粹文字的頁面真的很吸引人，剛好看到有人推薦 Derek Sivers 的一篇文章《[Write plain text files](https://sive.rs/plaintext)》（純文字寫作）。我喜歡 Sivers 推崇純文字寫作的力量，像是不被任何服務綁架，創造產生心流的專注環境等等。
 
 我喜歡的純文字寫作的五個好處：
 
@@ -31,5 +31,3 @@ description:
 ### Easiest to Convert（簡單轉換）
 
 - 純文字能任意轉換成不同形式的檔案，例如 HTML、Markdown、JSON，只要重新符合格式製作，就能在不同平台發布。
-
-我想 Derek Sivers 提到的純文字寫作，也加強我想繼續使用 [Logseq](https://chinghannhu.ghost.io/tech/#%E9%87%8D%E5%BA%A6%E4%BD%BF%E7%94%A8%E7%B2%BE%E9%81%B8) 作為第二大腦，離線編輯 + 純文字 Markdown 檔案，對我來說真的太重要。Notion、Google Doc 都無法取代 Logseq，雖然有時候我也還是會用 Obsidian 啦，但 Logseq 的子彈列點對我來說，還是最 distraction-free（心無旁騖）。
