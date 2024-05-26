@@ -14,7 +14,7 @@ date:
 
 
 ### Shipped
-- guide folder 2024-05-25
+- guides folder 2024-05-25
 - booknotes folder 2024-05-24
 - Rules Page 2024-05-12
 - Newsletter Page 2024-05-05
