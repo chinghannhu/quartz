@@ -1,5 +1,5 @@
 ---
-title: 如何拿回閱讀主導權
+title: 買一台閱讀器吧
 draft: false
 tags:
   - personal
