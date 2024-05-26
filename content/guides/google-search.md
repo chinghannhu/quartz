@@ -6,15 +6,15 @@ tags:
   - chrome-extensions
   - google
 date: 2021/08/16
-description: 是不是總覺得搜尋的結果差強人意，好像要多滑幾頁才找到真正想找的。該如何讓搜尋結果更準確？利用6個標點符號使搜尋更精準，不用再輕易開口問別人。
+description: 是不是總覺得搜尋的結果差強人意，好像要多滑幾頁才找到真正想找的。該如何讓搜尋結果更準確？利用標點符號使搜尋更精準，不用再輕易開口問別人。
 ---
-#### 是不是對於下面的情境很熟悉？
+#### 下面的情境很熟悉？
 
 1. 常常輸入關鍵字，翻了好幾頁，也搜尋不到想找的頁面。
 2. 主管請你搜集的資料，不知道關鍵字，該從何找起。
 3. 做報告好花時間，除了文字還要圖，想加入數據圖表，但該怎麼找...。
 
-你總是有一個特別會找資料、特別會搜尋的朋友，有沒有想過，或許他有什麼搜尋技巧是你不知道的，今天就要教你 5 個立刻提高搜尋精準度的小技巧，不用想問又不敢問、苦不堪言的伸手牌。
+總是有一個特別會找資料、特別會搜尋的朋友，有沒有想過，或許他有什麼搜尋技巧是你不知道的，下面是 5 個立刻提高搜尋精準度的小技巧，適合想問又不敢問、苦不堪言的伸手牌。
 
 ---
 
@@ -72,7 +72,7 @@ description: 是不是總覺得搜尋的結果差強人意，好像要多滑幾�
 
 ---
 
-#### 影片教學可以參考
+#### 影片教學
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXY-2fIAksY?si=B-QbBqq4c3hjnq0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
