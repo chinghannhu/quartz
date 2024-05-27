@@ -32,7 +32,7 @@ Morning Everyone!
 
 感謝朋友的邀請，能夠在玩遊戲的過程中，理解自己的特質，官方介紹的「不僅提供娛樂，也是一種心靈療癒的方式」所言不假，比起玩別的遊戲，我更認真的投入地玩蛻變遊戲，或許是受到 Finite and Infinite Game 書中理念的影響吧。
 
-「遊戲的目的為了不是贏而是享受其中。」 - Finite and Infinite Game
+> 「遊戲的目的為了不是贏而是享受其中。」 - Finite and Infinite Game
 
 推薦讀這封信的你，有機會玩玩看蛻變遊戲：）
 
