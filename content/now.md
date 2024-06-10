@@ -14,9 +14,9 @@ Updated on 2024-05-22, next update on 06-14.
 
 ---
 
-> ****我在做我最想做的事情嗎？Am I working on what I most want to work on?****
+> **我在做我最想做的事情嗎？Am I working on what I most want to work on?**
 
-> ****如果銀行戶頭裡有一億元，我會怎麼使用時間？If I had 100 million in the bank, what would I do with my time?****
+> **如果銀行戶頭裡有一億元，我會怎麼使用時間？If I had 100 million in the bank, what would I do with my time?**
 
 為了防止拖延和金錢至上的陷阱，因此，我把這兩句話放在 Now 頁面的最上面，希望引以為鑑。時刻提醒自己，真的在做自己最想做的事情嗎？
 
@@ -29,7 +29,7 @@ Updated on 2024-05-22, next update on 06-14.
 
 和朋友閒聊之際，最常出現的問題是「你現在在幹嘛？」忽然猛地被問一下，可能真的會回答不出來，腦中也會冒出「我真的知道自己在幹嘛嗎？」的疑問句。在緬懷過去和期待未來的過程中，我容易忘記當下想做的和當下能做的。被這個狀況困擾一段時間，我希望更加篤定的說出自己現在正在做什麼，因此，藉由書寫 Now 頁面做為提醒。
 
-Now 頁面對我而言，最大作用是提醒自己「****重視當下****」。
+Now 頁面對我而言，最大作用是提醒自己「**重視當下**」。
 
 提醒我眼前專注和享受的事情，舉凡投入想學習的各種主題，或是盡情創作。
 

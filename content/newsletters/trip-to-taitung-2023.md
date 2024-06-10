@@ -1,5 +1,5 @@
 ---
-title: "[短篇] GOGO 台東 Chill"
+title: 台東之旅
 draft: false
 tags: 
 date: 2023/12/19
