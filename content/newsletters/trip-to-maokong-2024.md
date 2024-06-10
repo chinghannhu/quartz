@@ -37,6 +37,8 @@ hu xx
 
 ## 本週金句
 
-> Friends diminish our perception of hardship—making us perceive adverse events as less stressful than we might otherwise see them—and even when we do experience extreme stress, friends can diminish its impact and duration. 朋友能減少我們對困難的感受，讓我們覺得困難的事件沒有那麼壓力大。即使我們真的經歷了極大的壓力，朋友也能減輕其影響並縮短其時間。
+> Friends diminish our perception of hardship—making us perceive adverse events as less stressful than we might otherwise see them—and even when we do experience extreme stress, friends can diminish its impact and duration. 
+> 
+> 朋友能減少我們對困難的感受，讓我們覺得困難的事件沒有那麼壓力大。即使我們真的經歷了極大的壓力，朋友也能減輕其影響並縮短其時間。
 
 From 《[​美好人生 The Good Life​](https://r10.to/hkFxFi)》, by Robert Waldinger, MD; Marc Schulz, PhD
