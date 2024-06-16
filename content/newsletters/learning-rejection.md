@@ -41,7 +41,7 @@ Morning Everyone!
 
 好像自己做錯了什麼，所以被拒絕。但其實不是，別人有各種原因拒絕自己，而自己是不是做錯了什麼，通常不是最重要的一個部分。
 
-這時候，我都會忽然提醒自己 Garyvee 最常說的一句話：「Have 0 expectations of others.」
+這時候，我都會忽然提醒自己 Garyvee 最常說的一句話：「Have 0 expectations on others.」
 
 盡力去做想做的事情，放下不能控制的事情，放下對失敗的恐懼，放下被拒絕的害怕。
 
