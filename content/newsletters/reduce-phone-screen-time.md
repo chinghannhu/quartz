@@ -5,7 +5,7 @@ tags:
 date: 2024/06/24
 description: 我真正想做的事情都跟滑手機無關，那為什麼我要一直滑手機？
 ---
-Morning Everyone
+Morning Everyone!
 
 腦中常出現「一不小心又滑了手機一個小時，剛都做了什麼？」
 
