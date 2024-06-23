@@ -7,9 +7,13 @@ date:
 ---
 ## The Mindset of Building This Blog
 
+成為知識的創作者，不要成為知識的搬運者。
+
 我想寫讓自己開心的文字。
 
-成為知識的創作者，不要成為知識的搬運者。
+
+
+<iframe width="100%" height="315" src="https://glasp.co/highlight-embed?u=AL07j8p1wFZNJDpb25gOBKN6eai2&d=76dd2823d52828aff3d1&h=veFdQbIeSbRquoV4&m=h" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The ultimate goal for creating is to have fun
 ![[anything-you-want#^e3f9bb]]

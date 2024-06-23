@@ -10,7 +10,7 @@ description: 這是一個 Now 頁面，雜食分享我現在正做什麼。
 
 這個頁面目前的做法是每個月最少更新一次，在每月 14 日。
 
-Updated on 2024-05-22, next update on 06-14.
+Updated on 2024-06-23, next update on 07-14.
 
 ---
 

@@ -39,7 +39,7 @@ This is a big page that I collect my life events and the process of discovering 
 - Be kind. [[/tags/kind|>]]
 ## My Tech
 - Apple Fan Boy
-- Kobo Clara 2E
+- Kobo Clara 2E, considering [KOBO Clara BW](https://r10.to/hkZTsr)
 - hyread Gaze X plus
 ## More about me
 - **I hate noise**. So happy that finally got noise-cancelling headphones at the end of 2023. They have literally made me feel like living in heaven.
