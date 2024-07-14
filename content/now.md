@@ -10,7 +10,7 @@ description: 這是一個 Now 頁面，雜食分享我現在正做什麼。
 
 這個頁面目前的做法是每個月最少更新一次，在每月 14 日。
 
-Updated on 2024-06-23, next update on 07-14.
+Updated on 2024-07-14, next update on 08-14.
 
 ---
 
@@ -25,6 +25,7 @@ Updated on 2024-06-23, next update on 07-14.
 1. [[todo|The Top of My Todo List]]
 2. [[start-writing-is-the-antidote|為什麼不該害怕寫作]]
 3. [[the-feeling-of-not-good-at-writing|為何我覺得自己寫得不好]]
+4. [[embrace-lifes-boredom|生活無聊才正常]]
 ---
 
 和朋友閒聊之際，最常出現的問題是「你現在在幹嘛？」忽然猛地被問一下，可能真的會回答不出來，腦中也會冒出「我真的知道自己在幹嘛嗎？」的疑問句。在緬懷過去和期待未來的過程中，我容易忘記當下想做的和當下能做的。被這個狀況困擾一段時間，我希望更加篤定的說出自己現在正在做什麼，因此，藉由書寫 Now 頁面做為提醒。
@@ -88,6 +89,7 @@ Here are several articles to knock on my own head at the right time:
 1. [[todo|The Top of My Todo List]]
 2. Why You Shouldn't Be Afraid of Writing <sub>（中文） </sub>
 3. Why I Feel I'm Not Good at Writing <sub>（中文） </sub>
+4. Embrace life's boredom <sub>（中文） </sub>
 
 ---
 # Why Now Page?
@@ -142,8 +144,9 @@ I aspire to immerse myself in the world of Japan.
 ---
 
 ## # Listening
-<iframe src="https://www.youtube.com/embed/AurV8fJzorM?si=VUsCA3pUn7WM1XEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P17qZoKP_hg?si=Y18ma7H1o-BJISfz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[[lyric-palette-hashimero]]
 
 ---
 
