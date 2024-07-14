@@ -1,10 +1,11 @@
 ---
-title: imase ミッドナイトガール
+title: imase ミッドナイトガール 歌詞 / Lyric
 draft: false
 tags:
   - jp
 date: 2024/03/01
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AurV8fJzorM?si=1uTP-cJsE_s18m9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **source:** [ミッドナイトガール-imase-歌詞 Lyrics-唱歌學日語-MARUMARU](https://www.jpmarumaru.com/tw/JPSongPlay-19850.html)
 
