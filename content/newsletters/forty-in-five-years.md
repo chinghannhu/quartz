@@ -23,7 +23,7 @@ Morning Everyone!
 
 ![[hu-quitting-framework1.png]]
 
-*《[Happy Sexy Millionare]([https://r10.to/hwOeFv](https://r10.to/hwOeFv))》「放棄框架」（Quitting Framework），中文翻譯+製圖 by hu*
+*source:《[Happy Sexy Millionare]([https://r10.to/hwOeFv](https://r10.to/hwOeFv))》「放棄框架」（Quitting Framework），中文翻譯+製圖 by hu*
 
 ### 2. 評估任務完成時間：「拆分三等份」
 
@@ -45,7 +45,7 @@ Morning Everyone!
 
 ![](https://embed.filekitcdn.com/e/ksfmZyekLTdfFs9AYEjbFq/nWWtDNp6W7Y2M8PSMgcSfc)
 
-*[​求解！求圖片中的影集是什麼影集？ - 歐美影集板 Dcard​](https://www.dcard.tw/f/ea_series/p/248326314)*
+*source: [​求解！求圖片中的影集是什麼影集？ - 歐美影集板 Dcard​](https://www.dcard.tw/f/ea_series/p/248326314)*
 
 > A: 我想當獸醫，但是要花五年，畢業的時候，我已經四十五歲了。
 
