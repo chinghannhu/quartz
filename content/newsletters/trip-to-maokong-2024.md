@@ -35,7 +35,7 @@ hu xx
 
 ---
 
-## 本週金句
+## 本週金句 Quote of the Week
 
 > Friends diminish our perception of hardship—making us perceive adverse events as less stressful than we might otherwise see them—and even when we do experience extreme stress, friends can diminish its impact and duration. 
 > 

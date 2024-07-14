@@ -69,7 +69,7 @@ hu xx
 
 ---
 
-## 本週金句
+## 本週金句 Quote of the Week
 
 > The more you sweat in peace time, the less you bleed in war time. 和平時期流汗越多，戰爭時期流血越少。
 

@@ -21,9 +21,9 @@ Steven Bartlett 在訪談中分享，他認為自己是一個很容易往前的�
 
 Steven Bartlett 的「放棄框架」（Quitting Framework），總共有五道問題，用來篩選眼前面對的選擇。
 
-![](https://chinghannhu.ghost.io/content/images/2023/10/quitting-framework-2.png)
+![[hu-quitting-framework1.png]]
 
-*《Happy Sexy Millionare》「放棄框架」（Quitting Framework），中文翻譯+製圖 by hu*
+*《[Happy Sexy Millionare]([https://r10.to/hwOeFv](https://r10.to/hwOeFv))》「放棄框架」（Quitting Framework），中文翻譯+製圖 by hu*
 
 ### Q1: 你現在在思考放棄嗎？
 

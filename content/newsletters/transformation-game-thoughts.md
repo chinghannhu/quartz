@@ -42,7 +42,7 @@ hu xx
 
 ---
 
-## 本週金句
+## 本週金句  Quote of the Week
 
 > If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game.  
 > 如果在遊戲中，取得勝利變得過於重要，那就改變規則讓遊戲變得更有趣。改變規則本身也可以成為一種新的遊戲。
