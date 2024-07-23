@@ -13,8 +13,6 @@ Morning Everyone!
 
 ![relaxing homer simpson GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBuOXJnbmNuaWMyd3ZpMDdhMXJ3eGt2ZnAwNTFhMXEyeXUzcW05MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif8QiWNUDOPoCXK/giphy.gif)
 
-caption
-
 當發生不舒服的事情時，會習慣質疑自己，是不是哪裡做錯了，哪裡不對了，但或許可以先試著了解「什麼時候會覺得自己錯了」。
 
 忽然想到之前寫過的《[[inner-critic|內心批判者]]》這篇，覺得自己錯了，可能是心中的「唱衰魔人」又出來發聲了。這時候能做的，是把他當成一個怪咖同事。有時候，會被唱衰魔人的話所困住，為了和他對抗，可以試著把腦中想法寫在紙上。例如：
