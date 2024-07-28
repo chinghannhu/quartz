@@ -87,7 +87,7 @@ Sheldon Cooper 是美劇 The Big Bang Theory（TBBT）的男主角之一，他�
     
 2. 我星期一晚上不開電腦。
     
-3. 我不在手機裝 Instagram。
+3. 我不在手機裝 Instagram、Twitter、YouTube、Netflix。
     
 4. 超過 22:30，我不開社群軟體。
     
