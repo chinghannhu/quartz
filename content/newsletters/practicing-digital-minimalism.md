@@ -7,7 +7,7 @@ description: 數位極簡主義的精髓是『有意識地利用少量的時間�
 ---
 Morning Everyone!
 
-上週颱風的緣故，因此在家躲了兩天風雨，很幸運的除了外面狂風暴雨之外，沒有任何不方便發生，很感謝。
+上週颱風的緣故，因此放假在家躲了兩天風雨，很幸運的除了外面狂風暴雨之外，沒有任何不方便發生，很感謝。
 
 ![Happy Internet GIF by Movistar+](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJuc2ZpZjkyZzh1dGJ4dzUzbDRndDl5cjZweDgyM2FkMG9pdTk2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6grUrzlqvKXr6mlPru/giphy.gif)
 
@@ -21,7 +21,7 @@ Morning Everyone!
 
 決定上午完全不開電腦，把手機擺超遠，開啟[​偽咖啡廳音樂​](https://open.spotify.com/intl-ja/album/1nMHkGDJwTvoW3LTTdUVwA?si=VmXaWxIPQW6YoflttZGfAg)，打開手錶上的倒數計時，倒好咖啡和水，意外的瘋狂投入閱讀從圖書館借了許久的書，一下時間就過了。
 
-可能是因為重新複習[​《星箭廣播》數位極簡主義的這集​](https://open.spotify.com/episode/0wyoTTORJQd4ys7k3dku3G?si=da4c80964dca468e)，主要介紹 Cal Newport 的書《[​深度數位大掃除​](https://r10.to/hNdWzE)》。聽到主持人 Titan 分享自己每天拿起手機的次數很容易超過 100 次，讓之前用了 Opal 發現每天拿起手機常常超過 50 次的自己不孤單。
+可能是因為重新複習[​《星箭廣播》數位極簡主義這集​](https://open.spotify.com/episode/0wyoTTORJQd4ys7k3dku3G?si=da4c80964dca468e)，主要介紹 Cal Newport 的書《[​深度數位大掃除​](https://r10.to/hNdWzE)》。聽到主持人 Titan 分享自己每天拿起手機的次數很容易超過 100 次，讓之前用了 Opal 發現每天拿起手機常常超過 50 次的自己不孤單。
 
 因為收聽 Podcast，回頭再看了一次《深度數位大掃除》這本書。
 
@@ -53,7 +53,8 @@ Cal Newport 在《​深度數位大掃除​》書中提到「數位極簡主�
 8. 吃飯不滑手機。
 9. **感到無聊的時候思考一個問題**：例如「什麼是我的理想生活」？
 
-上述規則，緊急事件除外，如果你有我的手機號碼，請連續打三次給我，我會接，當下沒接到也會回撥電話。
+上述規則不包含任何緊急事件，如果發生緊急的事情，想聯繫我，請撥打我的手機號碼，並連續打三次，我會接，當下沒接到也會回撥電話。
+
 ### 請幫助我
 
 如果我在規則不允許的時間傳訊息給你的話，請你慷慨地提醒我不要再手機成癮，哈哈。可以傳一個紅牌的 emoji 給我 🟥。
