@@ -1,9 +1,9 @@
 ---
-title: 12 個月後的慶祝
+title: 12 月慶典
 draft: false
 tags: 
 date: 2024/01/22
-description: 今天想來聊聊新年新目標的制定方法——12 Months Celebration（12 個月後的慶祝）。
+description: 今天想來聊聊新年新目標的制定方法——12 Months Celebration（12 月慶典）。
 ---
 Morning Everyone!
 
@@ -17,7 +17,7 @@ Morning Everyone!
 
 人生就像搭上一艘船，如果沒有目的地，就會不曉得該往哪個方向航行。
 
-選擇航行的目的地就像選擇目標一樣，會影響自己未來一段時間航行所能看到的風景和冒險。今天想來聊聊新年新目標的制定方法——[12 Months Celebration - YouTube](https://youtu.be/c_DOG_mXz5w?feature=shared&t=427)（12 個月後的慶祝）。
+選擇航行的目的地就像選擇目標一樣，會影響自己未來一段時間航行所能看到的風景和冒險。今天想來聊聊新年新目標的制定方法——[12 Months Celebration - YouTube](https://youtu.be/c_DOG_mXz5w?feature=shared&t=427)（12 月慶典）。
 
 ![[ali-wheeloflife01.png]]
 
