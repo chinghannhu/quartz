@@ -9,7 +9,7 @@ Morning Everyone!
 
 我回台灣了！
 
-這次的旅程真的是滿滿的驚喜和收穫，而一切的源頭，都是來自《[[dwz|Die with Zero]]》這本書的啟發。
+這次的旅程真的是滿滿的驚喜和收穫，而一切的源頭，都是來自《[[dwz|Die with Zero 別把你的錢留到死]]》這本書的啟發。
 
 因為十月是萬聖節的大月，我在朋友的提醒下，提前規劃了去東京迪士尼的行程。萬聖節期間遊客激增，所以早早訂了飯店，雖然超出了一些預算，但幸運地選到了位置絕佳的住宿。
 
@@ -31,7 +31,7 @@ Morning Everyone!
 
 在去機場前的最後一天，再次去了一家之前無意間發現的店，才驚訝地發現，這家店正是[​《獨活女子的守則》第四季​](https://hamivideo.hinet.net/product/253684.do)第九集中的「珈琲王城」，他們的藥膳咖哩每天限量十份，雖然味道偏辣，但這一切的巧合，讓旅程更加神奇。
 
-這次旅程也要感謝《Die with Zero》和 Ali Abdaal 推薦的「[​Year at a Glance​](https://www.chinghannhu.com/newsletters/new-year-new-mindset#%E4%BB%80%E9%BA%BC%E6%98%AF%E5%85%A8%E5%B9%B4%E9%A0%90%E8%A6%BD%E8%A1%A8year-at-a-glance)」方法。年初設定目標時，我有點大膽地在十月的連假裡寫上了「迪士尼」。沒想到，藉著這次去日本出差的機會，竟然真的實現了這個夢想。
+這次旅程也要感謝《Die with Zero 別把你的錢留到死》和 Ali Abdaal 推薦的「[[new-year-new-mindset#^29cabc|Year at a Glance 全年預覽表]]」方法。年初設定目標時，我有點大膽地在十月的連假裡寫上了「迪士尼」。沒想到，藉著這次去日本出差的機會，竟然真的實現了這個夢想。
 
 最後，這趟旅程也帶回了不少書和扭蛋，還吃了很多美食，真是太幸福了。
 
